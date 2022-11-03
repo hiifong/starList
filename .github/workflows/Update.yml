@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Export your star's repository list
 
 # Controls when the workflow will run
 on:
@@ -38,8 +38,6 @@ jobs:
         run: gh api -H "Accept:application/vnd.github+json" /users/hiifong/starred --paginate --jq '[.[]]' > list.json
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-#      - name: Cat list.json
-#        run: cat ./list.json
       - name: Update README
         run: python main.py
       - name: Commit files

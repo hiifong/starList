@@ -19,12 +19,9 @@ def readJsonFile(path):
                 '|:----:| ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n'
     with open(path, "r", encoding='utf-8') as f:
         starList = list(f.readlines())
-        print(type(starList))
         for l in starList:
-            print(type(l))
             for obj in json.loads(l):
                 start += 1
-                print(type(obj))
                 license = ''
                 desc = ''
                 lang = ''
