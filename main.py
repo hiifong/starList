@@ -28,7 +28,7 @@ def readJsonFile(path):
                 if obj["description"] == None:
                     desc = '无'
                 else:
-                    desc = obj["description"]
+                    desc = obj["description"][0:200:]
                 if obj["language"] == None:
                     lang = '无'
                 else:
