@@ -38,7 +38,7 @@ def readJsonFile(path):
                 else:
                     license = obj["license"]["name"]
                 # | 序号 | 仓库 | 描述 | 更新时间 | Star | Fork | 语言 | 许可证 |
-                markdown += '| ' + str(start) + ' | ' + '[' + obj["full_name"] + '](' + obj["html_url"] + ')' + ' | ' + desc.replace('|','').replace('\\', '') + ' | ' + \
+                markdown += '| ' + str(start) + ' | ' + '[' + obj["name"] + '](' + obj["html_url"] + ')' + ' | ' + desc.replace('|','').replace('\\', '') + ' | ' + \
                     obj["updated_at"][0:9] + ' | ' + str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
                     lang + ' | ' + license + ' |\n'
     f.close()
