@@ -1,0 +1,68 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+      - name: Install GH CLI
+        # You may pin to the exact commit or the version.
+        # uses: dev-hanz-ops/install-gh-cli-action@f5664a9f88973fbe8088d2c46bffb45791a00ac4
+        uses: dev-hanz-ops/install-gh-cli-action@0.0.2
+        # with:
+          # Version of the GitHub-CLI that should be installed
+          # gh-cli-version: # optional, default is 2.14.2
+      #- name: Config Cli
+       # run: export GH_TOKEN \= ${{ secrets.GH_TOKEN }}
+      
+      - name: Update star
+        run: gh api -H "Accept:application/vnd.github+json" /users/hiifong/starred --paginate --jq '[.[]]' > list.json
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#      - name: Cat list.json
+#        run: cat ./list.json
+      - name: Update README
+        run: python main.py
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -a -m "Update README"
+      - name: GitHub Push
+        # You may pin to the exact commit or the version.
+        # uses: ad-m/github-push-action@40bf560936a8022e68a3c00e7d2abefaf01305a6
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
+          # Repository name to push. Default or empty value represents current github repository (${GITHUB_REPOSITORY})
+          # repository: # optional, default is 
+          # Destination branch to push changes
+          branch: main
+          # Determines if force push is used
+          force: true
+          # Determines if --tags is used
+          #tags: # optional
+          # Directory to change to before pushing.
+          directory: .
+      
