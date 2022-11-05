@@ -44,7 +44,7 @@ def readJsonFile(path):
 #                     obj["updated_at"][0:9] + ' | ' + str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
 #                     lang + ' | ' + license + ' |\n'
                 markdown += '| ' + str(start) + ' | ' + '[' + obj["name"] + '](' + obj["html_url"] + ')' + ' | ' + desc.replace('|','').replace('\\', '') + ' | ' + \
-                    ' | ' + str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
+                    str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
                     lang + ' |\n'
     f.close()
     return markdown
