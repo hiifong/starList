@@ -15,8 +15,10 @@ listReg = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
 def readJsonFile(path):
     # print("开始")
     start = 0
-    markdown = '| 序号 | 仓库 | 描述 | 更新时间 | Star | Fork | 语言 | 许可证 |\n' + \
-                '|:----:| ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n'
+#     markdown = '| 序号 | 仓库 | 描述 | 更新时间 | Star | Fork | 语言 | 许可证 |\n' + \
+#                 '|:----:| ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n'
+    markdown = '| 序号 | 仓库 | 描述 | Star | Fork | 语言 |\n' + \
+                '|:----:| ---- | ---- |:----:|:----:|:----:|\n'
     with open(path, "r", encoding='utf-8') as f:
         starList = list(f.readlines())
         for l in starList:
@@ -38,9 +40,12 @@ def readJsonFile(path):
                 else:
                     license = obj["license"]["name"]
                 # | 序号 | 仓库 | 描述 | 更新时间 | Star | Fork | 语言 | 许可证 |
+#                 markdown += '| ' + str(start) + ' | ' + '[' + obj["name"] + '](' + obj["html_url"] + ')' + ' | ' + desc.replace('|','').replace('\\', '') + ' | ' + \
+#                     obj["updated_at"][0:9] + ' | ' + str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
+#                     lang + ' | ' + license + ' |\n'
                 markdown += '| ' + str(start) + ' | ' + '[' + obj["name"] + '](' + obj["html_url"] + ')' + ' | ' + desc.replace('|','').replace('\\', '') + ' | ' + \
-                    obj["updated_at"][0:9] + ' | ' + str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
-                    lang + ' | ' + license + ' |\n'
+                    ' | ' + str(obj["stargazers_count"]) + ' | ' + str(obj["forks_count"]) + ' | ' + \
+                    lang + ' |\n'
     f.close()
     return markdown
 
