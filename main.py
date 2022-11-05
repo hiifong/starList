@@ -24,11 +24,20 @@ def readJsonFile(path):
         for l in starList:
             for obj in json.loads(l):
                 start += 1
+                name = ''
                 license = ''
                 desc = ''
                 lang = ''
+                if obj["name"] == None:
+                    name = '无'
+                elif len(obj["name"]) > 25:
+                    name = obj["name"][0:25] + '...'
+                else:
+                    name = obj["name"]    
                 if obj["description"] == None:
                     desc = '无'
+                elif len(obj["description"]) > 200:
+                    desc = obj["description"][0:200:] + '...'
                 else:
                     desc = obj["description"][0:200:]
                 if obj["language"] == None:
