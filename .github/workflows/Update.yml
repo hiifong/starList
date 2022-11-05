@@ -37,7 +37,7 @@ jobs:
        # run: export GH_TOKEN \= ${{ secrets.GH_TOKEN }}
       
       - name: Update star
-        run: gh api -H "Accept:application/vnd.github+json" /users/hiifong/starred --paginate --jq '[.[]]' > list.json
+        run: gh api -H "Accept:application/vnd.github+json" /users/hiifong/starred?per_page=2&sort=updated --paginate --jq '[.[]]' > list.json
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
       - name: Update README
