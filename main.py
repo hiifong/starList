@@ -18,7 +18,7 @@ def readJsonFile(path):
 #     markdown = '| 序号 | 仓库 | 描述 | 更新时间 | Star | Fork | 语言 | 许可证 |\n' + \
 #                 '|:----:| ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n'
     markdown = '| 序号 | 仓库 | 描述 | Star | 语言 |\n' + \
-                '|:----:| ---- | ---- |:----:|:----:|\n'
+                '|:----:|:----:| ---- |:----:|:----:|\n'
     with open(path, "r", encoding='utf-8') as f:
         starList = list(f.readlines())
         for l in starList:
