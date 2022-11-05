@@ -2,9 +2,9 @@
 | 序号 | 仓库 | 描述 | Star | 语言 |
 |:----:| ---- | ---- |:----:|:----:|
 | 1 | [ent](https://github.com/ent/ent) | An entity framework for Go | 12269 | Go |
-| 2 | [googlevoice](https://github.com/ssnhd/googlevoice) | 注册 Google Voice 号码详细步骤 | 1305 | 无 |
+| 2 | [googlevoice](https://github.com/ssnhd/googlevoice) | 注册 Google Voice 号码详细步骤 | 1306 | 无 |
 | 3 | [havenask](https://github.com/alibaba/havenask) | 无 | 275 | C++ |
-| 4 | [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go | 3048 | Go |
+| 4 | [stash](https://github.com/stashapp/stash) | An organizer for your porn, written in Go | 3050 | Go |
 | 5 | [githubchart-api](https://github.com/2016rshah/githubchart-api) | :date: Embed github contributions chart as image | 658 | Ruby |
 | 6 | [MHDDoS](https://github.com/MatrixTM/MHDDoS) | Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods | 7072 | Python |
 | 7 | [epusdt](https://github.com/assimon/epusdt) | 开源优雅的跨平台usdt收付中间件 Easy Payment USDT——epsdt | 458 | Go |
@@ -45,8 +45,8 @@
 | 42 | [kkFileViewOfficeEdit](https://github.com/YiJiuSmile/kkFileViewOfficeEdit) | 文件在线预览及OFFICE(word,excel,ppt)的在线编辑 | 408 | Java |
 | 43 | [face-pay-springboot](https://github.com/itxiongge/face-pay-springboot) | SpringBoot案例-刷脸支付 | 11 | Java |
 | 44 | [ntchat-client](https://github.com/JustUndertaker/ntchat-client) | ntchat封装无头客户端 | 13 | Python |
-| 45 | [bitsail](https://github.com/bytedance/bitsail) | BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every d | 943 | Java |
-| 46 | [explainshell](https://github.com/idank/explainshell) | match command-line arguments to their help text | 11230 | Python |
+| 45 | [bitsail](https://github.com/bytedance/bitsail) | BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every d... | 943 | Java |
+| 46 | [explainshell](https://github.com/idank/explainshell) | match command-line arguments to their help text | 11231 | Python |
 | 47 | [vector](https://github.com/vectordotdev/vector) | A high-performance observability data pipeline. | 11609 | Rust |
 | 48 | [jellyfin](https://github.com/jellyfin/jellyfin) | The Free Software Media System | 17964 | C# |
 | 49 | [flutter_smooth](https://github.com/fzyzcjy/flutter_smooth) | Achieve ~60 FPS, no matter how heavy the tree is to build/layout | 681 | Dart |
@@ -57,7 +57,7 @@
 | 54 | [ionic-framework](https://github.com/ionic-team/ionic-framework) | A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. | 48189 | TypeScript |
 | 55 | [jnoj](https://github.com/shi-yang/jnoj) | Jiangnan Online Judge | 202 | JavaScript |
 | 56 | [Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) | 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统  三大桌面系统支持 | 455 | C++ |
-| 57 | [jetlinks-community](https://github.com/jetlinks/jetlinks-community) | JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理 | 3392 | Java |
+| 57 | [jetlinks-community](https://github.com/jetlinks/jetlinks-community) | JetLinks  基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理... | 3392 | Java |
 | 58 | [devops-resources](https://github.com/bregman-arie/devops-resources) | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP | 5817 | Groovy |
 | 59 | [podman](https://github.com/containers/podman) | Podman: A tool for managing OCI containers and pods. | 15788 | Go |
 | 60 | [academia-hugo](https://github.com/themefisher/academia-hugo) | Academia is a Hugo resume theme. You can showcase your academic resume, publications and talks using this theme. | 155 | HTML |
@@ -89,7 +89,7 @@
 | 86 | [miniob](https://github.com/oceanbase/miniob) | 无 | 479 | C++ |
 | 87 | [openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) | 14280 | Java |
 | 88 | [zerocopy](https://github.com/google/zerocopy) | 无 | 406 | Rust |
-| 89 | [Pake](https://github.com/tw93/Pake) | 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App. | 1969 | Rust |
+| 89 | [Pake](https://github.com/tw93/Pake) | 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App. | 1970 | Rust |
 | 90 | [uni-z-paging](https://github.com/SmileZXLee/uni-z-paging) | 【uni-app下拉刷新、上拉加载】高性能，全平台兼容。支持nvue、vue3，使用wxs+renderjs实现。支持虚拟列表，支持自定义下拉刷新、上拉加载更多，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持国际化等100+项配置 | 227 | Vue |
 | 91 | [flatbuffers](https://github.com/google/flatbuffers) | FlatBuffers: Memory Efficient Serialization Library | 19020 | C++ |
 | 92 | [swagserver](https://github.com/syllabix/swagserver) | serve swagger ui with go-swagger generated api servers | 13 | Go |
@@ -97,7 +97,7 @@
 | 94 | [swc](https://github.com/swc-project/swc) | Rust-based platform for the Web | 24680 | Rust |
 | 95 | [interview-questions](https://github.com/resumejob/interview-questions) | Interview Questions for Google, Amazon, Apple, etc. 根据超过 2000 篇真实面经整理的腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题 | 3047 | 无 |
 | 96 | [ubuntu-pe](https://github.com/ghostplant/ubuntu-pe) | Ubuntu Live PE for CD and USB, supporting Ubuntu Installation and Windows Installation. | 121 | Makefile |
-| 97 | [500-AI-Machine-learning-D](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | 10624 | 无 |
+| 97 | [500-AI-Machine-learning-D](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 AI Machine learning Deep learning Computer vision NLP Projects with code | 10625 | 无 |
 | 98 | [ICE_TEA_BIOS](https://github.com/neineit/ICE_TEA_BIOS) | The BIOS Code from project C970 | 123 | 无 |
 | 99 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy | 3951 | Solidity |
 | 100 | [novelai-bot](https://github.com/koishijs/novelai-bot) | Generate images by NovelAI  基于 NovelAI 的画图机器人 | 1644 | TypeScript |
@@ -126,7 +126,7 @@
 | 123 | [awesome-compose](https://github.com/docker/awesome-compose) | Awesome Docker Compose samples | 18990 | HTML |
 | 124 | [ColorTimetable](https://github.com/zguolee/ColorTimetable) | uni-app 课程表组件，微信小程序、QQ 小程序 | 78 | Vue |
 | 125 | [qwik](https://github.com/BuilderIO/qwik) | The HTML-first framework. Instant apps of any size with ~ 1kb JS | 12881 | TypeScript |
-| 126 | [mindsdb](https://github.com/mindsdb/mindsdb) | In-Database Machine Learning | 11169 | Python |
+| 126 | [mindsdb](https://github.com/mindsdb/mindsdb) | In-Database Machine Learning | 11170 | Python |
 | 127 | [EasySJMS](https://github.com/aceld/EasySJMS) | Easy搞定Golang设计模式 | 109 | Go |
 | 128 | [gitea-github-theme](https://github.com/pat-s/gitea-github-theme) | REPO MOVED TO CODEBERG: https://codeberg.org/pat-s/gitea-github-theme  Opinionated GitHub-based light and dark themes for Gitea | 82 | CSS |
 | 129 | [SyncTrayzor](https://github.com/canton7/SyncTrayzor) | Windows tray utility / filesystem watcher / launcher for Syncthing | 4239 | C# |
@@ -135,7 +135,7 @@
 | 132 | [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) | Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator | 427 | Kotlin |
 | 133 | [GoogleAuth](https://github.com/wstrange/GoogleAuth) | Google Authenticator Server side code | 962 | Java |
 | 134 | [AuthenticatorPro](https://github.com/jamie-mh/AuthenticatorPro) | 📱 Two-Factor Authentication (2FA) client for Android + Wear OS | 927 | C# |
-| 135 | [bolo-solo](https://github.com/adlered/bolo-solo) | 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统  🎸基于Solo深度定制  ❤️完善文档轻松安装，贴心的技术支持  免登录评论  邮件/微信提醒  自定义图床  备案模式  ✨精致主题持续更新  一键备份  防火墙  评论过滤  独立分类  文章与GitHub同步  ✅安装太轻松！支持 Tomcat  Docker   宝塔面板  支持Windows  Lin | 777 | Java |
+| 135 | [bolo-solo](https://github.com/adlered/bolo-solo) | 🍍Bolo菠萝博客 专为程序员设计的精致Java博客系统  🎸基于Solo深度定制  ❤️完善文档轻松安装，贴心的技术支持  免登录评论  邮件/微信提醒  自定义图床  备案模式  ✨精致主题持续更新  一键备份  防火墙  评论过滤  独立分类  文章与GitHub同步  ✅安装太轻松！支持 Tomcat  Docker   宝塔面板  支持Windows  Lin... | 777 | Java |
 | 136 | [css](https://github.com/primer/css) | The CSS design system that powers GitHub | 11452 | SCSS |
 | 137 | [NotepadNext](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ | 4482 | C++ |
 | 138 | [triton](https://github.com/openai/triton) | Development repository for the Triton language and compiler | 4212 | C++ |
@@ -189,7 +189,7 @@
 | 186 | [valence](https://github.com/valence-rs/valence) | A Rust framework for building Minecraft servers. | 1298 | Rust |
 | 187 | [fetch](https://github.com/go-zoox/fetch) | Go Fetch - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API | 20 | Go |
 | 188 | [req](https://github.com/imroc/req) | Simple Go HTTP client with Black Magic | 2816 | Go |
-| 189 | [TrollStore](https://github.com/opa334/TrollStore) | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 4271 | Objective-C |
+| 189 | [TrollStore](https://github.com/opa334/TrollStore) | Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple | 4272 | Objective-C |
 | 190 | [goplay2](https://github.com/openairplay/goplay2) | Airplay 2 Receiver written in Go | 276 | Go |
 | 191 | [AirplayServer](https://github.com/KqSMea8/AirplayServer) | Android server for Airplay2 | 338 | C |
 | 192 | [open-airplay](https://github.com/openairplay/open-airplay) | A collection of libraries for Apple's AirPlay protocol | 1520 | Java |
@@ -218,7 +218,7 @@
 | 215 | [tugraph-db](https://github.com/TuGraph-db/tugraph-db) | TuGraph is a high performance graph database. | 441 | C++ |
 | 216 | [motionity](https://github.com/alyssaxuu/motionity) | The web-based motion graphics editor for everyone 📽 | 2352 | JavaScript |
 | 217 | [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor. | 15686 | Rust |
-| 218 | [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | 22509 | Python |
+| 218 | [poetry](https://github.com/python-poetry/poetry) | Python packaging and dependency management made easy | 22510 | Python |
 | 219 | [chromebrew](https://github.com/chromebrew/chromebrew) | Package manager for Chrome OS | 1976 | Ruby |
 | 220 | [chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo) | 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验 | 6955 | JavaScript |
 | 221 | [chromeos-apk](https://github.com/vladikoff/chromeos-apk) | ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows. | 7553 | JavaScript |
@@ -236,7 +236,7 @@
 | 233 | [cpp_interview](https://github.com/guaguaupup/cpp_interview) | c++后台服务器开发面经或八股总结！(有深度有广度，和仅有概念的总结文章不同！) | 298 | 无 |
 | 234 | [blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme) | Blist is a clean and fast blog theme for your Hugo site. | 190 | HTML |
 | 235 | [hugo-serif-theme](https://github.com/zerostaticthemes/hugo-serif-theme) | Serif is a modern business theme for Hugo. | 339 | SCSS |
-| 236 | [portio-hugo](https://github.com/StaticMania/portio-hugo) | Portio Hugo is a simple, minimal and responsive Portfolio Hugo Theme. Portio Hugo is well organized, well-formatted, and named accordingly so it’s easy to change any and all of the design. Portio is b | 343 | HTML |
+| 236 | [portio-hugo](https://github.com/StaticMania/portio-hugo) | Portio Hugo is a simple, minimal and responsive Portfolio Hugo Theme. Portio Hugo is well organized, well-formatted, and named accordingly so it’s easy to change any and all of the design. Portio is b... | 343 | HTML |
 | 237 | [lvbibir.github.io](https://github.com/lvbibir/lvbibir.github.io) | 基于hugo的papermod主题修改而成，个人站点：https://www.lvbibir.cn | 3 | HTML |
 | 238 | [hugo-freedom](https://github.com/wuzehv/hugo-freedom) | hugo-freedom主题 | 4 | HTML |
 | 239 | [hugo-theme-kagome](https://github.com/miiiku/hugo-theme-kagome) | 一个卡片类拟态风格的Hugo主题 | 90 | SCSS |
@@ -260,7 +260,7 @@
 | 257 | [apt-proxy](https://github.com/soulteary/apt-proxy) | Lightweight APT CHACHE PROXY with only 2MB+ size! | 43 | Go |
 | 258 | [TranslateProject](https://github.com/LCTT/TranslateProject) | Linux中国翻译项目 | 1981 | Shell |
 | 259 | [deb-get](https://github.com/wimpysworld/deb-get) | apt-get functionality for .debs published in 3rd party repositories or via direct download 📦 | 803 | Shell |
-| 260 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | 15441 | Swift |
+| 260 | [CodeEdit](https://github.com/CodeEditApp/CodeEdit) | CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. | 15442 | Swift |
 | 261 | [How-To-Secure-A-Linux-Ser](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | An evolving how-to guide for securing a Linux server. | 13224 | 无 |
 | 262 | [kernel_awsome_feature](https://github.com/0voice/kernel_awsome_feature) | 深入研究 kvm,ceph,fuse特性，包含开源项目，代码案例，文章，视频，架构脑图等 | 255 | 无 |
 | 263 | [influence_programmer](https://github.com/0voice/influence_programmer) | 2022年，梳理100位具有影响力的程序员，包含大厂高p高t，开源作者，学术比赛，博客自媒体，书籍作者 | 29 | 无 |
@@ -275,7 +275,7 @@
 | 272 | [particle-life](https://github.com/hunar4321/particle-life) | A simple program to simulate artificial life using attraction/reuplsion forces between many particles | 1622 | HTML |
 | 273 | [tev](https://github.com/Tom94/tev) | High dynamic range (HDR) image viewer and comparison tool | 713 | C++ |
 | 274 | [dolly](https://github.com/chapulina/dolly) | 🤖🐑 It's a sheep, it's a dolly, it's a following robot. Dolly was born to be cloned. | 185 | C++ |
-| 275 | [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) | PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu | 1981 | C++ |
+| 275 | [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) | PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popu... | 1981 | C++ |
 | 276 | [ffmpeg-kit](https://github.com/arthenica/ffmpeg-kit) | FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg. | 1981 | C |
 | 277 | [xxHash](https://github.com/Cyan4973/xxHash) | Extremely fast non-cryptographic hash algorithm | 6722 | C |
 | 278 | [AppManager](https://github.com/MuntashirAkon/AppManager) | A full-featured package manager and viewer for Android | 2090 | Java |
@@ -288,12 +288,12 @@
 | 285 | [Cemu](https://github.com/cemu-project/Cemu) | Cemu is a Wii U emulator | 3547 | C++ |
 | 286 | [first-contributions](https://github.com/firstcontributions/first-contributions) | 🚀✨ Help beginners to contribute to open source projects | 29771 | 无 |
 | 287 | [nn_vis](https://github.com/julrog/nn_vis) | A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation. | 811 | Python |
-| 288 | [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | 14724 | Rust |
+| 288 | [surrealdb](https://github.com/surrealdb/surrealdb) | A scalable, distributed, collaborative, document-graph database, for the realtime web | 14727 | Rust |
 | 289 | [maven-multi-module-demo](https://github.com/easonjim/maven-multi-module-demo) | Maven多模块项目样例以及构建教程 | 4 | Java |
 | 290 | [awesome-env-config-cn](https://github.com/mengyou658/awesome-env-config-cn) | 各种开发语言项目环境国内（中国国内加速镜像）配置教程和部分实践经验，包括github.com, nodejs，npm，nvm, yarn, java, maven, gradle, python, mysys2, elasticsearch, php,golang等等，更多正在加入中... | 47 | 无 |
 | 291 | [kotlin-examples](https://github.com/Kotlin/kotlin-examples) | Various examples for Kotlin | 3108 | 无 |
 | 292 | [jvm-sandbox](https://github.com/alibaba/jvm-sandbox) | Real - time non-invasive AOP framework container based on JVM | 5280 | Java |
-| 293 | [thorvg](https://github.com/Samsung/thorvg) | ThorVG is a platform-independent portable library for drawing vector-based scenes and animations including SVG. ThorVG provides user-friendly APIs, its library has no dependencies and maintains super  | 211 | C++ |
+| 293 | [thorvg](https://github.com/Samsung/thorvg) | ThorVG is a platform-independent portable library for drawing vector-based scenes and animations including SVG. ThorVG provides user-friendly APIs, its library has no dependencies and maintains super ... | 211 | C++ |
 | 294 | [cool-uni](https://github.com/cool-team-official/cool-uni) | 简洁易用的uni-app组件库 | 121 | Vue |
 | 295 | [blender](https://github.com/blender/blender) | Official mirror of Blender | 6955 | C |
 | 296 | [daily_morning](https://github.com/rxrw/daily_morning) | 给别人家的女朋友发早安 | 4270 | Python |
@@ -302,7 +302,7 @@
 | 299 | [diffusers](https://github.com/huggingface/diffusers) | 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch | 7274 | Python |
 | 300 | [hutool](https://github.com/dromara/hutool) | 🍬A set of tools that keep Java sweet. | 24376 | Java |
 | 301 | [33-js-concepts](https://github.com/stephentian/33-js-concepts) | :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso | 13731 | JavaScript |
-| 302 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | 74265 | JavaScript |
+| 302 | [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | 74266 | JavaScript |
 | 303 | [lvgl-rp2040-sh1107](https://github.com/breqdev/lvgl-rp2040-sh1107) | LVGL port for the Adafruit Feather RP2040 and FeatherWing SH1107. | 4 | C |
 | 304 | [stm32-ssd1306](https://github.com/afiskon/stm32-ssd1306) | STM32 library for working with OLEDs based on SSD1306, SH1106, SH1107 and SSD1309, supports I2C and SPI | 447 | C |
 | 305 | [cutefishos](https://github.com/cutefishos/cutefishos) | The goal is to create a better experience Linux desktop OS. | 50 | 无 |
@@ -332,14 +332,14 @@
 | 329 | [iTerm2](https://github.com/gnachman/iTerm2) | iTerm2 is a terminal emulator for Mac OS X that does amazing things. | 12901 | Objective-C |
 | 330 | [bbs-go](https://github.com/mlogclub/bbs-go) | 基于Golang的开源社区系统。 | 2173 | Vue |
 | 331 | [awesome-tools](https://github.com/cube-js/awesome-tools) | Open-source list of awesome data visualization tools (e.g., charting libraries) for software developers 📊📈 | 66 | JavaScript |
-| 332 | [trinib](https://github.com/trinib/trinib) | Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o | 68 | Python |
+| 332 | [trinib](https://github.com/trinib/trinib) | Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o... | 68 | Python |
 | 333 | [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. | 52535 | JavaScript |
 | 334 | [cs-learn](https://github.com/tomstillcoding/cs-learn) | 🌟 | 9 | TypeScript |
 | 335 | [awesome-x](https://github.com/hiifong/awesome-x) | :sparkles:Awesome list All in one | 2 | 无 |
 | 336 | [linuxKernelRoot](https://github.com/abcz316/linuxKernelRoot) | 新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。 | 278 | C++ |
 | 337 | [pdfjs-dist](https://github.com/mozilla/pdfjs-dist) | Generic build of PDF.js library.  | 763 | JavaScript |
 | 338 | [redisbox](https://github.com/winterbang/redisbox) | Redis GUI Client / Redis 可视化桌面客户端 | 20 | Vue |
-| 339 | [AnotherRedisDesktopManage](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys. | 23286 | JavaScript |
+| 339 | [AnotherRedisDesktopManage](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys. | 23287 | JavaScript |
 | 340 | [java-tutorial](https://github.com/dunwu/java-tutorial) | :coffee: 老司机在 Java 技术领域的十年积累。 | 1289 | Java |
 | 341 | [TaoQuick](https://github.com/jaredtao/TaoQuick) | a cool QtQuick/qml  component library and demo(一套酷炫的QtQuick/Qml基础库和示例) | 937 | QML |
 | 342 | [awesome-qt-qml](https://github.com/mikalv/awesome-qt-qml) | A curated list of awesome Qt and QML libraries, resources, projects, and shiny things. | 1588 | 无 |
@@ -371,7 +371,7 @@
 | 368 | [awesome-react](https://github.com/enaqx/awesome-react) | A collection of awesome things regarding React ecosystem | 52028 | 无 |
 | 369 | [juicefs](https://github.com/juicedata/juicefs) | JuiceFS is a distributed POSIX file system built on top of Redis and S3. | 6950 | Go |
 | 370 | [engine-sim](https://github.com/ange-yaghi/engine-sim) | Combustion engine simulator that generates realistic audio. | 6814 | C++ |
-| 371 | [novu](https://github.com/novuhq/novu) | ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and  | 11990 | TypeScript |
+| 371 | [novu](https://github.com/novuhq/novu) | ⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and ... | 11990 | TypeScript |
 | 372 | [pholcus](https://github.com/andeya/pholcus) | Pholcus is a distributed high-concurrency crawler software written in pure golang | 7197 | Go |
 | 373 | [duckdb](https://github.com/duckdb/duckdb) | DuckDB is an in-process SQL OLAP Database Management System | 7101 | C++ |
 | 374 | [paper2gui](https://github.com/Baiyuetribe/paper2gui) | Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术 | 5706 | Jupyter Notebook |
@@ -397,7 +397,7 @@
 | 394 | [tui.editor](https://github.com/nhn/tui.editor) | 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible. | 15338 | TypeScript |
 | 395 | [quill](https://github.com/quilljs/quill) | Quill is a modern WYSIWYG editor built for compatibility and extensibility. | 33955 | JavaScript |
 | 396 | [DesignPattern](https://github.com/jaredtao/DesignPattern) | C++11全套设计模式-23种指针的用法(a full DesignPattern implement with c++11) | 784 | C++ |
-| 397 | [CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) | 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》 | 1591 | HTML |
+| 397 | [CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) | 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》... | 1591 | HTML |
 | 398 | [js-ipfs](https://github.com/ipfs/js-ipfs) | IPFS implementation in JavaScript | 7119 | JavaScript |
 | 399 | [bark-server](https://github.com/Finb/bark-server) | Backend of Bark | 1542 | Go |
 | 400 | [DesignPattern](https://github.com/youlookwhat/DesignPattern) | 📚 Java 23种设计模式全归纳 | 3447 | Java |
@@ -416,7 +416,7 @@
 | 413 | [refined-github](https://github.com/refined-github/refined-github) | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | 19217 | TypeScript |
 | 414 | [tips](https://github.com/git-tips/tips) | Most commonly used git tips and tricks. | 20500 | JavaScript |
 | 415 | [git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | 14388 | 无 |
-| 416 | [octotree](https://github.com/ovity/octotree) | GitHub on steroids | 22238 | JavaScript |
+| 416 | [octotree](https://github.com/ovity/octotree) | GitHub on steroids | 22237 | JavaScript |
 | 417 | [mybatis-plus](https://github.com/baomidou/mybatis-plus) | An powerful enhanced toolkit of MyBatis for simplify development | 13678 | Java |
 | 418 | [source-vue](https://github.com/smileBoy123456/source-vue) | 🔥 一直想做一款追求极致用户体验的低代码开发平台，看了很多优秀的开源项目但是发现没有合适的。于是利用空闲休息时间对若依框架进行扩展写了一套快速开发系统。如此有了开源字节快速开发平台。该平台基于 Spring Boot + MyBatis + Vue & Element ，包含微信小程序 & Uniapp， Flowable 工作流、三方登录、支付、短信、邮箱、IM... | 5 | Java |
 | 419 | [pay-spring-boot-starter-p](https://github.com/egzosn/pay-spring-boot-starter-parent) | 基于spring-boot实现自动化配置的支付对接，让你真正做到一行代码实现支付聚合，让你可以不用理解支付怎么对接，只需要专注你的业务 全能第三方支付对接pay-spring-boot-starter开发工具包 | 179 | Java |
@@ -438,7 +438,7 @@
 | 435 | [nrm](https://github.com/Pana/nrm) | NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao | 2410 | JavaScript |
 | 436 | [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer) | 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄 | 4022 | Java |
 | 437 | [harmonica](https://github.com/charmbracelet/harmonica) | A simple, physics-based animation library 🎼 | 626 | Go |
-| 438 | [skate](https://github.com/charmbracelet/skate) | A personal key value store 🛼 | 713 | Go |
+| 438 | [skate](https://github.com/charmbracelet/skate) | A personal key value store 🛼 | 714 | Go |
 | 439 | [soft-serve](https://github.com/charmbracelet/soft-serve) | A tasty, self-hostable Git server for the command line🍦 | 2718 | Go |
 | 440 | [bubbles](https://github.com/charmbracelet/bubbles) | TUI components for Bubble Tea 🫧 | 2734 | Go |
 | 441 | [memgraph](https://github.com/memgraph/memgraph) | Build modern, graph-based applications on top of your streaming data in minutes | 660 | C++ |
@@ -478,7 +478,7 @@
 | 475 | [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. | 18955 | Go |
 | 476 | [HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) | 无 | 4178 | C |
 | 477 | [userver](https://github.com/userver-framework/userver) | The C++ Asynchronous Framework (beta) | 1431 | C++ |
-| 478 | [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your | 705 | Lua |
+| 478 | [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS) | A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect your... | 705 | Lua |
 | 479 | [nodegui](https://github.com/nodegui/nodegui) | A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org | 8043 | C++ |
 | 480 | [gum](https://github.com/charmbracelet/gum) | A tool for glamorous shell scripts 🎀 | 11028 | Go |
 | 481 | [lotion](https://github.com/Dashibase/lotion) | An open-source Notion UI built with Vue 3  | 2457 | Vue |
@@ -509,7 +509,7 @@
 | 506 | [cppinsights](https://github.com/andreasfertig/cppinsights) | C++ Insights - See your source code with the eyes of a compiler | 2083 | C++ |
 | 507 | [cppjieba](https://github.com/yanyiwu/cppjieba) | "结巴"中文分词的C++版本 | 2219 | C++ |
 | 508 | [asmjit](https://github.com/asmjit/asmjit) | Machine code generation for C++ | 3226 | C++ |
-| 509 | [easyloggingpp](https://github.com/amrayn/easyloggingpp) | Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs i | 3266 | C++ |
+| 509 | [easyloggingpp](https://github.com/amrayn/easyloggingpp) | Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs i... | 3266 | C++ |
 | 510 | [FTXUI](https://github.com/ArthurSonzogni/FTXUI) | :computer: C++ Functional Terminal User Interface. :heart: | 3722 | C++ |
 | 511 | [yaml-cpp](https://github.com/jbeder/yaml-cpp) | A YAML parser and emitter in C++ | 3712 | C++ |
 | 512 | [EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) | 《Effective Modern C++》翻译 - 已完成 | 5046 | 无 |
@@ -567,7 +567,7 @@
 | 564 | [DataV](https://github.com/DataV-Team/DataV) | Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布) | 7143 | Vue |
 | 565 | [otter](https://github.com/alibaba/otter) | 阿里巴巴分布式数据库同步系统(解决中美异地机房) | 7415 | Java |
 | 566 | [godis](https://github.com/HDT3213/godis) | A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群 | 2303 | Go |
-| 567 | [XPopup](https://github.com/li-xiaojun/XPopup) | 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for A | 6740 | Java |
+| 567 | [XPopup](https://github.com/li-xiaojun/XPopup) | 🔥XPopup2.0版本重磅来袭，2倍以上性能提升，带来可观的动画性能优化和交互细节的提升！！！功能强大，交互优雅，动画丝滑的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup for A... | 6740 | Java |
 | 568 | [dubbo](https://github.com/apache/dubbo) | Apache Dubbo is a high-performance, java based, open source RPC framework. | 38065 | Java |
 | 569 | [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) | WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。 | 2158 | Java |
 | 570 | [grpc-java](https://github.com/grpc/grpc-java) | The Java gRPC implementation. HTTP/2 based RPC | 10124 | Java |
@@ -587,11 +587,11 @@
 | 584 | [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) | 🎉 整理我平时关注的前端库。 | 1528 | 无 |
 | 585 | [weekly](https://github.com/sorrycc/weekly) | 前端周刊，每周一发布。 | 889 | TypeScript |
 | 586 | [professional-programming](https://github.com/charlax/professional-programming) | A collection of learning resources for curious software engineers | 20984 | Python |
-| 587 | [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 104335 | JavaScript |
+| 587 | [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 104336 | JavaScript |
 | 588 | [gout](https://github.com/guonaihong/gout) | gout to become the Swiss Army Knife of the http client @^^@--->  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues | 1089 | Go |
 | 589 | [100-go-mistakes](https://github.com/teivah/100-go-mistakes) | 📖 100 Go Mistakes and How to Avoid Them | 3423 | Go |
 | 590 | [typoraCracker](https://github.com/fossabot/typoraCracker) | A patch and keygen tools for typora. | 411 | Python |
-| 591 | [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign | 4799 | TypeScript |
+| 591 | [logto](https://github.com/logto-io/logto) | 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign... | 4800 | TypeScript |
 | 592 | [awesome-tips](https://github.com/jbhuang0604/awesome-tips) | 无 | 1922 | 无 |
 | 593 | [BambuStudio](https://github.com/bambulab/BambuStudio) | PC Software for BambuLab's 3D printers | 229 | C++ |
 | 594 | [how-web-works](https://github.com/vasanthk/how-web-works) | What happens behind the scenes when we type www.google.com in a browser? | 10570 | 无 |
@@ -599,7 +599,7 @@
 | 596 | [DesignPatterns](https://github.com/landy8530/DesignPatterns) | 经典设计模式讲解以及项目实战（Java版） | 844 | Java |
 | 597 | [mall](https://github.com/macrozheng/mall) | mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 | 61982 | Java |
 | 598 | [springcloud-learning](https://github.com/macrozheng/springcloud-learning) | 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。 | 5455 | Java |
-| 599 | [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 | 11951 | 无 |
+| 599 | [kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) | 天涯 kkndme 神贴聊房价 | 11952 | 无 |
 | 600 | [simple-demo](https://github.com/RaymondCode/simple-demo) | 无 | 91 | Go |
 | 601 | [CSYuTuiMian2022](https://github.com/CS-BAOYAN/CSYuTuiMian2022) | 关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？ | 679 | 无 |
 | 602 | [mall4cloud](https://github.com/gz-yami/mall4cloud) | ⭐️⭐️⭐️    Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城 | 2902 | Vue |
@@ -657,7 +657,7 @@
 | 654 | [qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | 17695 | C++ |
 | 655 | [velox](https://github.com/facebookincubator/velox) | A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. | 1783 | C++ |
 | 656 | [SteamTools](https://github.com/BeyondDimension/SteamTools) | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | 10819 | C# |
-| 657 | [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. | 10646 | TypeScript |
+| 657 | [tldraw](https://github.com/tldraw/tldraw) | A tiny little drawing app. | 10647 | TypeScript |
 | 658 | [yudao-cloud](https://github.com/YunaiV/yudao-cloud) | ruoyi-vue-pro 全新 Cloud 版本，优化重构所有功能。基于 Spring Cloud Alibaba + MyBatis Plus + Vue & Element 实现的后台管理系统 + 用户小程序，支持 RBAC 动态权限、多租户、数据权限、工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ | 6742 | Java |
 | 659 | [Software-Engineering-at-G](https://github.com/qiangmzsx/Software-Engineering-at-Google) | 《Software Engineering at Google》的中文翻译版本 | 3005 | HTML |
 | 660 | [gmqtt](https://github.com/lybxkl/gmqtt) | golang mqtt v5 | 4 | Go |
@@ -709,7 +709,7 @@
 | 706 | [huatuo](https://github.com/tuyoogame/huatuo) | huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix | 2082 | C++ |
 | 707 | [mold](https://github.com/rui314/mold) | mold: A Modern Linker 🦠 | 9092 | C++ |
 | 708 | [zfs](https://github.com/openzfs/zfs) | OpenZFS on Linux and FreeBSD | 8279 | C |
-| 709 | [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) | 7778 | C |
+| 709 | [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) | GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) | 7779 | C |
 | 710 | [123elf](https://github.com/taviso/123elf) | A native port of Lotus 1-2-3 to Linux. | 737 | C |
 | 711 | [wazuh](https://github.com/wazuh/wazuh) | Wazuh - The Open Source Security Platform | 5146 | C |
 | 712 | [janus-gateway](https://github.com/meetecho/janus-gateway) | Janus WebRTC Server | 6799 | C |
@@ -797,7 +797,7 @@
 | 794 | [IOC-golang](https://github.com/alibaba/IOC-golang) | 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application. | 925 | Go |
 | 795 | [mdserver-web](https://github.com/midoks/mdserver-web) | Simple Linux Panel | 1919 | JavaScript |
 | 796 | [clap](https://github.com/free-audio/clap) | Audio Plugin API | 1191 | C |
-| 797 | [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu | 14912 | JavaScript |
+| 797 | [ToolJet](https://github.com/ToolJet/ToolJet) | Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu... | 14912 | JavaScript |
 | 798 | [jak-project](https://github.com/open-goal/jak-project) | Reviving the language that brought us the Jak & Daxter Series | 2142 | Common Lisp |
 | 799 | [golang-socketio](https://github.com/graarh/golang-socketio) | golang socket.io client and server | 408 | Go |
 | 800 | [raven](https://github.com/openyurtio/raven) | provide layer 3 network connectivity among pods in different physical regions | 36 | Go |
@@ -817,7 +817,7 @@
 | 814 | [SE990-Chinese-Star-Name-P](https://github.com/StellarDX/SE990-Chinese-Star-Name-Pack) | SpaceEngine 0.990恒星名称汉化 | 3 | Scala |
 | 815 | [svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) | A collection of 24 x 24 dp SVG spinners! (CSS & SMIL) | 4327 | SVG |
 | 816 | [Lorien](https://github.com/mbrlabs/Lorien) | Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot. | 3474 | GDScript |
-| 817 | [watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | 4815 | Go |
+| 817 | [watermill](https://github.com/ThreeDotsLabs/watermill) | Building event-driven applications the easy way in Go. | 4816 | Go |
 | 818 | [SoftGLRender](https://github.com/keith2018/SoftGLRender) | Tiny C++ Software Renderer / Rasterizer | 458 | C++ |
 | 819 | [nebula](https://github.com/vesoft-inc/nebula) |   A distributed, fast open-source graph database featuring horizontal scalability and high availability | 8177 | C++ |
 | 820 | [osrm-backend](https://github.com/Project-OSRM/osrm-backend) | Open Source Routing Machine - C++ backend | 5226 | C++ |
@@ -834,18 +834,18 @@
 | 831 | [InterviewGuide](https://github.com/forthespada/InterviewGuide) | 🔥🔥「InterviewGuide」是阿秀从校园->职场多年计算机自学过程的记录以及学弟学妹们计算机校招&秋招经验总结文章的汇总，包括但不限于C/C++ 、Golang、JavaScript、Vue、操作系统、数据结构、计算机网络、MySQL、Redis等学习总结，坚持学习，持续成长！ | 3500 | 无 |
 | 832 | [CodeGuide](https://github.com/fuzhengwei/CodeGuide) | :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！ | 8745 | 无 |
 | 833 | [HelloZooKeeper](https://github.com/HelloGitHub-Team/HelloZooKeeper) | 你好 ZooKeeper！从 0 系统地讲解 ZooKeeper 的教程 | 781 | 无 |
-| 834 | [springBoot-study](https://github.com/xuwujing/springBoot-study) | SpringBoot学习的相关工程并辅以博文讲解。主要包括入门的Hello World、自定义配置的获取、集成mybatis的xml和注解使用、集成jpa的使用、集成druid进行项目的监控、事物实战使用， 项目打包、使用logback日志文件管理、添加过滤器和拦截器、多数据源、Restful风格的服务、集成elasticsearch、redis、netty、集成jsp和thymeleaf、集成s | 1404 | JavaScript |
+| 834 | [springBoot-study](https://github.com/xuwujing/springBoot-study) | SpringBoot学习的相关工程并辅以博文讲解。主要包括入门的Hello World、自定义配置的获取、集成mybatis的xml和注解使用、集成jpa的使用、集成druid进行项目的监控、事物实战使用， 项目打包、使用logback日志文件管理、添加过滤器和拦截器、多数据源、Restful风格的服务、集成elasticsearch、redis、netty、集成jsp和thymeleaf、集成s... | 1404 | JavaScript |
 | 835 | [hello.js](https://github.com/MrSwitch/hello.js) | A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect | 4617 | JavaScript |
 | 836 | [useful-java-links](https://github.com/Vedenin/useful-java-links) | A list of useful Java frameworks, libraries, software and hello worlds examples | 5370 | Java |
 | 837 | [jetson-inference](https://github.com/dusty-nv/jetson-inference) | Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson. | 5923 | C++ |
 | 838 | [hello-algorithm](https://github.com/geekxh/hello-algorithm) | 🌍 针对小白的算法训练  包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！ | 31529 | Java |
 | 839 | [wechat-mp-server](https://github.com/asjdf/wechat-mp-server) | Go版本的微信公众号后端框架 包含消息路由与基础中间件 🔥🔥🔥方便速冲小需求🔥🔥🔥 | 5 | Go |
-| 840 | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | A modern and customizable python UI-library based on Tkinter | 2891 | Python |
-| 841 | [siyuan](https://github.com/siyuan-note/siyuan) | SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github. | 7520 | TypeScript |
+| 840 | [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | A modern and customizable python UI-library based on Tkinter | 2892 | Python |
+| 841 | [siyuan](https://github.com/siyuan-note/siyuan) | SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.... | 7520 | TypeScript |
 | 842 | [LibreTube](https://github.com/libre-tube/LibreTube) | An alternative YouTube front end, for Android. | 3440 | Kotlin |
 | 843 | [github-profile-achievemen](https://github.com/Schweinepriester/github-profile-achievements) | A collection listing all Achievements available on the GitHub profile 🏆 | 2610 | Markdown |
 | 844 | [tinyrpc](https://github.com/Gooddbird/tinyrpc) | c++ async rpc framework. 14w+qps. | 368 | C++ |
-| 845 | [WebServer](https://github.com/linyacool/WebServer) | A C++ High Performance Web Server | 5459 | C++ |
+| 845 | [WebServer](https://github.com/linyacool/WebServer) | A C++ High Performance Web Server | 5460 | C++ |
 | 846 | [MyTinySTL](https://github.com/Alinshans/MyTinySTL) | Achieve a tiny STL in C++11 | 7438 | C++ |
 | 847 | [OneKeyVip](https://github.com/maxzhang666/OneKeyVip) | 一键Vip解析工具箱,功能介绍：1、Vip视频解析；2、一站式音乐搜索解决方案；3、bilibili视频封面获取；4、bilibili视频下载；5、商品历史价格展示(一次性告别虚假降价)；6、优惠券查询；7、CSDN界面清理(复制解锁) | 277 | JavaScript |
 | 848 | [JustList](https://github.com/txperl/JustList) | 天翼云盘、阿里云盘、OneDrive 文件列表工具 | 376 | Python |
@@ -853,7 +853,7 @@
 | 850 | [NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0) | Android OpenGL ES 3.0 从入门到精通系统性学习教程 | 2140 | C++ |
 | 851 | [FileCentipede](https://github.com/filecxx/FileCentipede) | Cross-platform internet download/upload manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, ed2k, and online videos.  WebDAV client, FTP client, SSH client. | 3175 | C++ |
 | 852 | [dragonfly](https://github.com/dragonflydb/dragonfly) | A modern replacement for Redis and Memcached | 15890 | C++ |
-| 853 | [RxFFmpeg](https://github.com/microshow/RxFFmpeg) | 🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频 | 3776 | C |
+| 853 | [RxFFmpeg](https://github.com/microshow/RxFFmpeg) | 🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频... | 3776 | C |
 | 854 | [redis7.0-chinese-annotate](https://github.com/CN-annotation-team/redis7.0-chinese-annotated) | Redis 7.0.4 版本——中文注释，持续更新！欢迎参与本项目！🍭🍭🍭 | 261 | C |
 | 855 | [Awesome-Exploit](https://github.com/Threekiii/Awesome-Exploit) | 一个漏洞利用工具仓库 | 190 | C |
 | 856 | [eraft](https://github.com/eraft-io/eraft) | A generic raft library in Golang | 173 | Go |
@@ -882,7 +882,7 @@
 | 879 | [Tone.js](https://github.com/Tonejs/Tone.js) | A Web Audio framework for making interactive music in the browser. | 12048 | TypeScript |
 | 880 | [android-open-project](https://github.com/Trinea/android-open-project) | A categorized collection of Android Open Source Projects,  More powerful web version: | 31079 | 无 |
 | 881 | [goon](https://github.com/i11us0ry/goon) | goon,集合了fscan和kscan等优秀工具功能的扫描爆破工具。功能包含：ip探活、port扫描、web指纹扫描、title扫描、压缩文件扫描、fofa获取、ms17010、mssql、mysql、postgres、redis、ssh、smb、rdp、telnet、tomcat等爆破以及如netbios探测等功能。 | 517 | Go |
-| 882 | [kratos](https://github.com/ory/kratos) | Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover | 7797 | Go |
+| 882 | [kratos](https://github.com/ory/kratos) | Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recover... | 7797 | Go |
 | 883 | [spring-boot-best-practice](https://github.com/javastacks/spring-boot-best-practice) | Spring Boot 最佳实践，包括自动配置、核心原理、源码分析、国际化支持、调试、日志集成、热部署等。 | 2127 | Java |
 | 884 | [guava](https://github.com/google/guava) | Google core libraries for Java | 46098 | Java |
 | 885 | [codex_py2cpp](https://github.com/alxschwrz/codex_py2cpp) | Converts python code into c++ by using OpenAI CODEX. | 395 | Python |
@@ -908,13 +908,13 @@
 | 905 | [JavaFamily](https://github.com/AobingJava/JavaFamily) | 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 | 32293 | 无 |
 | 906 | [mybatis-3](https://github.com/mybatis/mybatis-3) | MyBatis SQL mapper framework for Java | 17889 | Java |
 | 907 | [ipv6](https://github.com/tmplink/ipv6) | IPv6 文档 | 451 | 无 |
-| 908 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS | 22348 | CSS |
+| 908 | [50projects50days](https://github.com/bradtraversy/50projects50days) | 50+ mini web projects using HTML, CSS & JS | 22349 | CSS |
 | 909 | [chinese-programmer-wrong-](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) | 中国程序员容易发音错误的单词 | 19419 | JavaScript |
 | 910 | [lo](https://github.com/samber/lo) | 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) | 8455 | Go |
 | 911 | [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) | Lua based interactive firmware for ESP8266, ESP8285 and ESP32 | 7190 | C |
 | 912 | [at-command-set](https://github.com/esp8266/at-command-set) | ESP8266 AT+ Command Set | 66 | 无 |
 | 913 | [ESPWebServer](https://github.com/esp8266/ESPWebServer) | HTTP server library for ESP8266/ESP32 Arduino cores (previously ESP8266WebServer) | 144 | C++ |
-| 914 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 11050 | Java |
+| 914 | [source-code-hunter](https://github.com/doocs/source-code-hunter) | 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等 | 11051 | Java |
 | 915 | [batnoter](https://github.com/batnoter/batnoter) | An open source, markdown-based, self-hosted note taking webapp. | 1792 | TypeScript |
 | 916 | [mbed-os](https://github.com/ARMmbed/mbed-os) | Arm Mbed OS is a platform operating system designed for the internet of things | 4218 | C |
 | 917 | [linux](https://github.com/Icenowy/linux) | Linux kernel source tree | 103 | C |
@@ -931,7 +931,7 @@
 | 928 | [inih](https://github.com/benhoyt/inih) | Simple .INI file parser in C, good for embedded systems | 1861 | C |
 | 929 | [gear-lib](https://github.com/gozfree/gear-lib) | Gear-Lib, C library for IOT Embedded Multimedia and Network | 2584 | C |
 | 930 | [dqlite](https://github.com/canonical/dqlite) | Embeddable, replicated and fault tolerant SQL engine. | 3217 | C |
-| 931 | [email-templates](https://github.com/forwardemail/email-templates) | Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a | 3447 | JavaScript |
+| 931 | [email-templates](https://github.com/forwardemail/email-templates) | Create, preview (in the browser and in the iOS Simulator), and send custom email templates for Node.js. Highly configurable and supports automatic inline CSS, stylesheets, embedded images and fonts, a... | 3447 | JavaScript |
 | 932 | [ArduinoJson](https://github.com/bblanchon/ArduinoJson) | 📟 JSON library for Arduino and embedded C++. Simple and efficient. | 5864 | C++ |
 | 933 | [lua-nginx-module](https://github.com/openresty/lua-nginx-module) | Embed the Power of Lua into NGINX HTTP servers | 10326 | C |
 | 934 | [micropython](https://github.com/micropython/micropython) | MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems | 15354 | C |
@@ -984,7 +984,7 @@
 | 981 | [Cubli_Mini](https://github.com/ZhaJiHu/Cubli_Mini) | 无 | 518 | C++ |
 | 982 | [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) | Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！ | 3713 | C++ |
 | 983 | [Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource) | C++ 匠心之作 从0到1入门资料 | 2718 | C++ |
-| 984 | [o3de](https://github.com/o3de/o3de) | Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou | 5579 | C++ |
+| 984 | [o3de](https://github.com/o3de/o3de) | Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou... | 5579 | C++ |
 | 985 | [jemalloc](https://github.com/jemalloc/jemalloc) | 无 | 7526 | C |
 | 986 | [ServerStatus](https://github.com/cppla/ServerStatus) | 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/ | 2439 | C++ |
 | 987 | [oh-my-vim](https://github.com/mintisan/oh-my-vim) | Vim Config for Reading Linux Kernel Source Code | 23 | Vim script |
@@ -992,7 +992,7 @@
 | 989 | [CVIP](https://github.com/gongluck/CVIP) | C/C++/Golang/Linux...知识整理 | 54 | C |
 | 990 | [gdbserver](https://github.com/bet4it/gdbserver) | A tiny debugger implement the GDB Remote Serial Protocol. Can work on i386, x86_64, ARM and PowerPC. | 84 | C |
 | 991 | [athame](https://github.com/ardagnir/athame) | Full vim for your shell (bash, zsh, gdb, python, etc) | 1536 | C |
-| 992 | [gdbgui](https://github.com/cs01/gdbgui) | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope | 8898 | TypeScript |
+| 992 | [gdbgui](https://github.com/cs01/gdbgui) | Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope... | 8898 | TypeScript |
 | 993 | [Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) | 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟 | 1748 | 无 |
 | 994 | [Handright](https://github.com/Gsllchb/Handright) | A lightweight Python library for simulating Chinese handwriting | 1271 | Python |
 | 995 | [bytemd](https://github.com/bytedance/bytemd) | Hackable Markdown Editor and Viewer | 3118 | TypeScript |
@@ -1015,7 +1015,7 @@
 | 1012 | [Java](https://github.com/DuHouAn/Java) | ☕️Java👫面向对象📝编程题💾数据库☎️常用框架📖系统设计💪工具📚参考资料 | 1223 | 无 |
 | 1013 | [cilium](https://github.com/cilium/cilium) | eBPF-based Networking, Security, and Observability | 13430 | Go |
 | 1014 | [mock](https://github.com/golang/mock) | GoMock is a mocking framework for the Go programming language. | 8150 | Go |
-| 1015 | [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️ Simple, Modular & Accessible UI Components for your React Applications | 29517 | TypeScript |
+| 1015 | [chakra-ui](https://github.com/chakra-ui/chakra-ui) | ⚡️ Simple, Modular & Accessible UI Components for your React Applications | 29518 | TypeScript |
 | 1016 | [Kyty](https://github.com/InoriRus/Kyty) | PS4 & PS5 emulator | 1944 | C++ |
 | 1017 | [mad](https://github.com/txthinking/mad) | Generate root CA and derivative certificate for any domains and any IPs. 为任何域名和IP生成证书 | 25 | Go |
 | 1018 | [cmake-examples](https://github.com/ttroy50/cmake-examples) | Useful CMake Examples | 9475 | CMake |
@@ -1024,7 +1024,7 @@
 | 1021 | [livekit](https://github.com/livekit/livekit) | End to end stack for WebRTC. SFU media server and SDKs | 4175 | Go |
 | 1022 | [pycdc](https://github.com/zrax/pycdc) | C++ python bytecode disassembler and decompiler | 1532 | C++ |
 | 1023 | [doctest](https://github.com/doctest/doctest) | The fastest feature-rich C++11/14/17/20 single-header testing framework | 4302 | C++ |
-| 1024 | [connectedhomeip](https://github.com/project-chip/connectedhomeip) | Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards | 4977 | C++ |
+| 1024 | [connectedhomeip](https://github.com/project-chip/connectedhomeip) | Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards... | 4977 | C++ |
 | 1025 | [PolyMC](https://github.com/PolyMC/PolyMC) | A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) | 1752 | C++ |
 | 1026 | [openvino](https://github.com/openvinotoolkit/openvino) | OpenVINO™ Toolkit repository | 3761 | C++ |
 | 1027 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | ClickHouse® is a free analytics DBMS for big data | 26006 | C++ |
@@ -1069,7 +1069,7 @@
 | 1066 | [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) | A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures. | 7464 | C |
 | 1067 | [ly](https://github.com/fairyglade/ly) | display manager with console UI | 3417 | C |
 | 1068 | [ImageMagick](https://github.com/ImageMagick/ImageMagick) | 🧙‍♂️ ImageMagick 7 | 7942 | C |
-| 1069 | [openssl](https://github.com/openssl/openssl) | TLS/SSL and crypto library | 19953 | C |
+| 1069 | [openssl](https://github.com/openssl/openssl) | TLS/SSL and crypto library | 19954 | C |
 | 1070 | [GmSSL](https://github.com/guanzhi/GmSSL) | 支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱 | 3579 | C |
 | 1071 | [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) | Flipper Zero firmware source code | 3750 | C |
 | 1072 | [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) | Behavior Trees Library in C++. Batteries included. | 1751 | C++ |
@@ -1100,16 +1100,16 @@
 | 1097 | [awesome-IntelliJ-IDEA](https://github.com/xiaoxiunique/awesome-IntelliJ-IDEA) | 公众号《玩转IDEA》工作日每天早上 9 点更新使用技巧 | 3028 | 无 |
 | 1098 | [awesome-java](https://github.com/CodingDocs/awesome-java) | Collection of awesome Java project on Github(非常棒的 Java 开源项目集合). | 7691 | 无 |
 | 1099 | [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) | A curated list of awesome Kotlin related stuff Inspired by awesome-java.  | 10180 | Kotlin |
-| 1100 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java | 77871 | Java |
+| 1100 | [java-design-patterns](https://github.com/iluwatar/java-design-patterns) | Design patterns implemented in Java | 77872 | Java |
 | 1101 | [id-server](https://github.com/NotFound403/id-server) | An OAuth2 Authorization Server,Based on Spring Authorization Server | 334 | JavaScript |
-| 1102 | [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | 27632 | Go |
+| 1102 | [compose](https://github.com/docker/compose) | Define and run multi-container applications with Docker | 27633 | Go |
 | 1103 | [gocqzbp](https://github.com/FloatTech/gocqzbp) | go-cqhttp与ZeroBot-Plugin的合体 | 109 | Go |
 | 1104 | [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) | 小巧精悍、准确、实用 GeoIP2 数据库 | 4583 | Go |
 | 1105 | [vim-galore](https://github.com/mhinz/vim-galore) | :mortar_board: All things Vim! | 14691 | Vim script |
 | 1106 | [austin](https://github.com/ZhongFuCheng3y/austin) | 消息推送平台:pencil: 推送下发【邮件】【短信】【微信服务号】【微信小程序】【企业微信】【钉钉】等消息类型。所使用的技术栈包括：SpringBoot、SpringDataJPA、MySQL、Docker、docker-compose、Kafka、Redis、Apollo、prometheus、Grafana、GrayLog、Flink、Xxl-job、Echarts等等 | 2715 | Java |
 | 1107 | [gofound](https://github.com/sea-team/gofound) | GoFound GoLang Full text search go语言全文检索引擎，毫秒级查询。 使用使用http接口调用，集成Admin管理界面，任何系统都可以使用。 | 1251 | Go |
 | 1108 | [nowinandroid](https://github.com/android/nowinandroid) | A fully functional Android app built entirely with Kotlin and Jetpack Compose | 7948 | Kotlin |
-| 1109 | [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. | 40505 | TypeScript |
+| 1109 | [supabase](https://github.com/supabase/supabase) | The open source Firebase alternative. Follow to stay updated about our public Beta. | 40506 | TypeScript |
 | 1110 | [LiveTerm](https://github.com/Cveinnt/LiveTerm) | 💻 Build terminal styled websites in minutes! | 3589 | TypeScript |
 | 1111 | [git-js](https://github.com/steveukx/git-js) | A light weight interface for running git commands in any node.js application. | 2878 | TypeScript |
 | 1112 | [wordai](https://github.com/senghoo/wordai) | 自然语言处理辅助背单词 | 117 | Python |
@@ -1118,9 +1118,9 @@
 | 1115 | [EasyClash](https://github.com/daodao97/EasyClash) | An easy-to-use GUI for clash | 178 | 无 |
 | 1116 | [baidupcs-batch-upload](https://github.com/masx200/baidupcs-batch-upload) | 使用baidupcs-go,百度网盘批量上传文件,高并发支持,在上传超过几百个文件时，速度快得多 | 29 | TypeScript |
 | 1117 | [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) | iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能 | 1593 | Go |
-| 1118 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 146254 | Dart |
-| 1119 | [bcc](https://github.com/iovisor/bcc) | BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more | 15868 | C |
-| 1120 | [yn](https://github.com/purocean/yn) | A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.j | 4138 | TypeScript |
+| 1118 | [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | 146255 | Dart |
+| 1119 | [bcc](https://github.com/iovisor/bcc) | BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more | 15869 | C |
+| 1120 | [yn](https://github.com/purocean/yn) | A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.j... | 4138 | TypeScript |
 | 1121 | [HEU_KMS_Activator](https://github.com/zbezj/HEU_KMS_Activator) | 无 | 11652 | 无 |
 | 1122 | [vs-picgo](https://github.com/PicGo/vs-picgo) | A VSCode plugin of PicGo | 314 | TypeScript |
 | 1123 | [Vundle.vim](https://github.com/VundleVim/Vundle.vim) | Vundle, the plug-in manager for Vim | 23317 | Vim script |
@@ -1144,7 +1144,7 @@
 | 1141 | [bluetooth](https://github.com/tinygo-org/bluetooth) | Cross-platform Bluetooth API for Go and TinyGo. | 456 | C |
 | 1142 | [tinygo](https://github.com/tinygo-org/tinygo) | Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. | 11790 | Go |
 | 1143 | [IpProxyPool](https://github.com/wuchunfu/IpProxyPool) | Golang 实现的 IP 代理池, 涉及到的技术点: go gorm proxy proxypool ip crawler 爬虫 mysql viper cobra | 63 | Go |
-| 1144 | [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 26172 | Swift |
+| 1144 | [Charts](https://github.com/danielgindi/Charts) | Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart. | 26173 | Swift |
 | 1145 | [app-ideas](https://github.com/florinpop17/app-ideas) | A Collection of application ideas which can be used to improve your coding skills. | 59384 | 无 |
 | 1146 | [vue-mini](https://github.com/vue-mini/vue-mini) | 像写 Vue 3 一样写小程序 | 499 | TypeScript |
 | 1147 | [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) | A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. | 7338 | 无 |
@@ -1159,7 +1159,7 @@
 | 1156 | [node-rsa](https://github.com/rzcoder/node-rsa) | Node.js RSA library | 1290 | JavaScript |
 | 1157 | [crypto-js](https://github.com/brix/crypto-js) | JavaScript library of crypto standards. | 13623 | JavaScript |
 | 1158 | [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks, Get Started as a Web Developer | 58921 | JavaScript |
-| 1159 | [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) | Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum | 53 | HTML |
+| 1159 | [Tasmota-firmware](https://github.com/arendst/Tasmota-firmware) | Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum... | 53 | HTML |
 | 1160 | [mescroll](https://github.com/mescroll/mescroll) | 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading) | 4048 | Vue |
 | 1161 | [uView2.0](https://github.com/umicro/uView2.0) | uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水 | 831 | Vue |
 | 1162 | [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn't suck. | 20497 | TypeScript |
@@ -1230,14 +1230,14 @@
 | 1227 | [pdns](https://github.com/PowerDNS/pdns) | PowerDNS Authoritative, PowerDNS Recursor, dnsdist | 2896 | C++ |
 | 1228 | [video-subtitle-extractor](https://github.com/YaoFANGUK/video-subtitle-extractor) | 视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.  | 1702 | Python |
 | 1229 | [awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) | List of awesome open source hardware tools | 1058 | Python |
-| 1230 | [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. | 6625 | 无 |
+| 1230 | [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) | This is the release repository for Fan Control, a highly customizable fan controlling software for Windows. | 6626 | 无 |
 | 1231 | [nonebot-plugin-manager](https://github.com/nonepkg/nonebot-plugin-manager) | Nonebot Plugin Manager base on import hook | 33 | Python |
 | 1232 | [WePush](https://github.com/rememberber/WePush) | 专注批量推送的小而美的工具，目前支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信 | 2903 | Java |
 | 1233 | [vapor](https://github.com/vapor/vapor) | 💧 A server-side Swift HTTP web framework. | 22220 | Swift |
 | 1234 | [spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) | about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。  | 28179 | Java |
 | 1235 | [spring-boot](https://github.com/spring-projects/spring-boot) | Spring Boot | 63922 | Java |
 | 1236 | [javaboy-code-samples](https://github.com/lenve/javaboy-code-samples) | 公众号【江南一点雨】文章案例汇总，技术文章请戳这里-----> | 1144 | Java |
-| 1237 | [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) | ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 | 31893 | Java |
+| 1237 | [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) | ⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 | 31894 | Java |
 | 1238 | [lv_drivers](https://github.com/lvgl/lv_drivers) | TFT and touch pad drivers for LVGL embedded GUI library | 182 | C |
 | 1239 | [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) | SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. | 1555 | C |
 | 1240 | [nuklear](https://github.com/golang-ui/nuklear) | This project provides Go bindings for nuklear.h — a small ANSI C GUI library. | 1487 | C |
@@ -1265,15 +1265,15 @@
 | 1262 | [readme-md-generator](https://github.com/kefranabg/readme-md-generator) | 📄 CLI that generates beautiful README.md files | 9933 | JavaScript |
 | 1263 | [github-profile-readme-gen](https://github.com/rahuldkjain/github-profile-readme-generator) | 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI. | 13141 | JavaScript |
 | 1264 | [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) | Interactive HTML BOM generation plugin for KiCad | 2635 | Python |
-| 1265 | [LeetCode](https://github.com/wisdompeak/LeetCode) | This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems  | 4078 | C++ |
+| 1265 | [LeetCode](https://github.com/wisdompeak/LeetCode) | This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems ... | 4078 | C++ |
 | 1266 | [fx](https://github.com/antonmedv/fx) | Terminal JSON viewer | 15396 | Go |
 | 1267 | [zee](https://github.com/zee-editor/zee) | A modern text editor for the terminal written in Rust | 1161 | Rust |
 | 1268 | [VideoCrawlerEngine](https://github.com/ZSAIm/VideoCrawlerEngine) | 起源于旧项目爱奇艺解析器(iqiyi-parser)在开发、维护和扩展的过程中遇到的一些问题，而实现的一个基于任务流式的可视化爬虫引擎。引擎的执行单元是节点。脚本节点(script)作为根节点来完成对节点和流程的描述，经由任务节点(task)解析流程描述并生成节点的执行队列，最后交由工作者执行池处理。整个过程可视可控，所有节点处理器都以插件的形式导入，以最大程度实现易扩展性。 | 364 | Python |
 | 1269 | [HP-Socket](https://github.com/ldcsaa/HP-Socket) | High Performance TCP/UDP/HTTP Communication Component | 4921 | C |
 | 1270 | [rwProcMem33](https://github.com/abcz316/rwProcMem33) | Linux read & write process memory module. | 196 | C |
-| 1271 | [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | 62013 | JavaScript |
+| 1271 | [tailwindcss](https://github.com/tailwindlabs/tailwindcss) | A utility-first CSS framework for rapid UI development. | 62014 | JavaScript |
 | 1272 | [dotweb](https://github.com/devfeel/dotweb) | Simple and easy go web micro framework | 1371 | Go |
-| 1273 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | 39961 | TypeScript |
+| 1273 | [tabby](https://github.com/Eugeny/tabby) | A terminal for a more modern age | 39963 | TypeScript |
 | 1274 | [PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) | PX4 Autopilot Software | 5939 | C++ |
 | 1275 | [m3u8-downloader](https://github.com/yangwk/m3u8-downloader) | chrome插件，支持监控和下载：m3u8流媒体、视频、音频 | 56 | JavaScript |
 | 1276 | [fp-go](https://github.com/repeale/fp-go) | Fp-go is a collection of Functional Programming helpers powered by Golang 1.18+ generics. | 132 | Go |
@@ -1313,7 +1313,7 @@
 | 1310 | [go-guardian](https://github.com/shaj13/go-guardian) | Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication. | 414 | Go |
 | 1311 | [srsRAN](https://github.com/srsran/srsRAN) | Open source SDR 4G/5G software suite from Software Radio Systems (SRS) | 2807 | C++ |
 | 1312 | [xzs-mysql](https://github.com/mindskip/xzs-mysql) | 学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。 | 1940 | JavaScript |
-| 1313 | [--](https://github.com/981011512/--) | 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持a | 3710 | Java |
+| 1313 | [--](https://github.com/981011512/--) | 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持a... | 3710 | Java |
 | 1314 | [vue2-manage](https://github.com/bailicangdu/vue2-manage) | A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统 | 12341 | Vue |
 | 1315 | [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) | A curated list of awesome Android UI/UX libraries | 44410 | 无 |
 | 1316 | [ani-cli](https://github.com/pystardust/ani-cli) | A cli tool to browse and play anime | 4309 | Shell |
@@ -1328,7 +1328,7 @@
 | 1325 | [anylink](https://github.com/bjdgyc/anylink) | AnyLink是一个企业级远程办公 ssl vpn 软件，可以支持多人同时在线使用。基于 openconnect 协议开发，并且借鉴了 ocserv 的开发思路，可以完全兼容 AnyConnect 客户端。 | 791 | Go |
 | 1326 | [go-demo](https://github.com/pibigstar/go-demo) | Go语言实例教程从入门到进阶，包括基础库使用、设计模式、面试易错点、工具类、对接第三方等 | 1953 | Go |
 | 1327 | [util-linux](https://github.com/util-linux/util-linux) | 无 | 1912 | C |
-| 1328 | [nginx](https://github.com/nginx/nginx) | An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi | 17464 | C |
+| 1328 | [nginx](https://github.com/nginx/nginx) | An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi... | 17464 | C |
 | 1329 | [qemu](https://github.com/qemu/qemu) | Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. | 6941 | C |
 | 1330 | [cobra](https://github.com/spf13/cobra) | A Commander for modern Go CLI interactions | 29350 | Go |
 | 1331 | [golangci-lint](https://github.com/golangci/golangci-lint) | Fast linters Runner for Go | 11433 | Go |
@@ -1337,7 +1337,7 @@
 | 1334 | [nnn.vim](https://github.com/mcchrish/nnn.vim) | File manager for vim/neovim powered by n³ | 599 | Vim Script |
 | 1335 | [nnn](https://github.com/jarun/nnn) | n³ The unorthodox terminal file manager | 15129 | C |
 | 1336 | [librdkafka](https://github.com/edenhill/librdkafka) | The Apache Kafka C/C++ library | 6281 | C |
-| 1337 | [cocos-engine](https://github.com/cocos/cocos-engine) | Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited fr | 3346 | C++ |
+| 1337 | [cocos-engine](https://github.com/cocos/cocos-engine) | Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited fr... | 3346 | C++ |
 | 1338 | [loki](https://github.com/grafana/loki) | Like Prometheus, but for logs. | 17534 | Go |
 | 1339 | [RoomRentalManagementSyste](https://github.com/SimpleGraduationProjects/RoomRentalManagementSystem) | 房屋出租管理系统-毕业设计 | 1 | Java |
 | 1340 | [iced](https://github.com/iced-rs/iced) | A cross-platform GUI library for Rust, inspired by Elm | 16749 | Rust |
@@ -1362,7 +1362,7 @@
 | 1359 | [fpm](https://github.com/jordansissel/fpm) | Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. | 10583 | Ruby |
 | 1360 | [mosdns-cn](https://github.com/IrineSistiana/mosdns-cn) | A simple DNS forwarder that can make life easier. | 231 | Go |
 | 1361 | [mosdns](https://github.com/IrineSistiana/mosdns) | 一个 DNS 转发器 | 1133 | Go |
-| 1362 | [cloud](https://github.com/Rain-Ricky/cloud) | 项目名称：云医疗管理系统，IDEA+MySQL8.0+SpringBoot+Generator逆向工程+前后端分离；本系统是一个面向大众用户和医护工作者的健康诊疗平台，为患者提供网上挂号、在线问诊、诊断报告查询、线上复诊,网络预约手术、住院出院手续办理、费用缴纳、查看健康资讯等全方位服务，同时也为医护工作人员提供了在线咨询解答、健康档案管理、在线开具电子处方、电子病历管理、病人的住院、出院流程的办 | 189 | Vue |
+| 1362 | [cloud](https://github.com/Rain-Ricky/cloud) | 项目名称：云医疗管理系统，IDEA+MySQL8.0+SpringBoot+Generator逆向工程+前后端分离；本系统是一个面向大众用户和医护工作者的健康诊疗平台，为患者提供网上挂号、在线问诊、诊断报告查询、线上复诊,网络预约手术、住院出院手续办理、费用缴纳、查看健康资讯等全方位服务，同时也为医护工作人员提供了在线咨询解答、健康档案管理、在线开具电子处方、电子病历管理、病人的住院、出院流程的办... | 189 | Vue |
 | 1363 | [weekly](https://github.com/saucxs/weekly) | 周报系统的技术栈主要是node+vue+redis+mysql+es6，一个企业管理系统，企业员工汇报每周工作情况，以及完成情况，各级负责人可以查看和提醒相应未写周报人员，后端完全使用nodeJS，数据库使用mysql，基于nodejs的thinkjs框架搭建的，如果喜欢nodeJS写的后端，支持大前端，支持全栈开发。地址：http://weekly.mwcxs.top | 157 | Vue |
 | 1364 | [react-antd-admin](https://github.com/liuguanhua/react-antd-admin) | 后台前端管理系统，基于react、typescript、antd、dva及一些特别优秀的开源库实现 | 183 | TypeScript |
 | 1365 | [wx-manage](https://github.com/niefy/wx-manage) | 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩 | 872 | Vue |
@@ -1384,7 +1384,7 @@
 | 1381 | [IronOS](https://github.com/Ralim/IronOS) | Open Source Soldering Iron firmware for Miniware and Pinecil | 4976 | C |
 | 1382 | [Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) | Leaked Mirai Source Code for Research/IoC Development Purposes | 7555 | C |
 | 1383 | [tpotce](https://github.com/telekom-security/tpotce) | 🍯 T-Pot - The All In One Honeypot Platform 🐝 | 4127 | C |
-| 1384 | [itlwm](https://github.com/OpenIntelWireless/itlwm) | Intel Wi-Fi Drivers for macOS | 5800 | C |
+| 1384 | [itlwm](https://github.com/OpenIntelWireless/itlwm) | Intel Wi-Fi Drivers for macOS | 5801 | C |
 | 1385 | [klipper](https://github.com/Klipper3d/klipper) | Klipper is a 3d-printer firmware | 5534 | C |
 | 1386 | [InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) | Firmware for Pinetime smartwatch written in C/C++ and based on FreeRTOS | 1858 | C |
 | 1387 | [Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) | A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment. | 1046 | C |
@@ -1393,7 +1393,7 @@
 | 1390 | [linux_kernel](https://github.com/athurg/linux_kernel) | 嵌入式Linux内核精简版 | 7 | C |
 | 1391 | [embedded-linux-system](https://github.com/luowei1995/embedded-linux-system) | 嵌入式linux的内核移植、根文件系统制作、系统启动过程、Makefile解读、make menuconfig配置等 | 14 | 无 |
 | 1392 | [Linux-C-CPP-Collection](https://github.com/CodeAllen999/Linux-C-CPP-Collection) | Linux/C/CPP开源项目 - 【高级嵌入式软件工程师自学之路】，编程学习+行业动态+资源分享+面试方法+岗位分析 | 22 | 无 |
-| 1393 | [quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) | This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development | 68 | 无 |
+| 1393 | [quard_star_tutorial](https://github.com/QQxiaoming/quard_star_tutorial) | This project aims to build an Embedded Linux System, in order to analyze the chip from the power-on execution of the first instruction to the entire system running, based on qemu simulator development... | 68 | 无 |
 | 1394 | [buildroot-mastering-embed](https://github.com/thirtythreeforty/buildroot-mastering-embedded-linux) | The companion Buildroot repository for the Mastering Embedded Linux series | 19 | Makefile |
 | 1395 | [Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) | Super TINY & Low-cost Linux Develop-Kit Based On F1C200s. | 826 | HTML |
 | 1396 | [authelia](https://github.com/authelia/authelia) | The Single Sign-On Multi-Factor portal for web apps | 14576 | Go |
@@ -1433,7 +1433,7 @@
 | 1430 | [go-smtp](https://github.com/emersion/go-smtp) | :outbox_tray: An SMTP client & server library written in Go | 1109 | Go |
 | 1431 | [template](https://github.com/gofiber/template) | 🧬 Template engine middleware for Fiber | 165 | Go |
 | 1432 | [marked](https://github.com/markedjs/marked) | A markdown parser and compiler. Built for speed. | 28567 | JavaScript |
-| 1433 | [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | 9442 | JavaScript |
+| 1433 | [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | 9443 | JavaScript |
 | 1434 | [LawRefBook](https://github.com/RanKKI/LawRefBook) | 中华人民共和国法律手册 | 1656 | Swift |
 | 1435 | [openmlsys-zh](https://github.com/openmlsys/openmlsys-zh) | 《Machine Learning Systems: Design and Implementation》- Chinese Version | 2092 | TeX |
 | 1436 | [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) | 计算机自学指南 | 13668 | HTML |
@@ -1461,7 +1461,7 @@
 | 1458 | [ClashForAndroid](https://github.com/Kr328/ClashForAndroid) | A rule-based tunnel for Android. | 17468 | Kotlin |
 | 1459 | [nonebot-plugin-emojimix](https://github.com/noneplugin/nonebot-plugin-emojimix) | 适用于 Nonebot2 的 emoji 合成器 | 39 | Python |
 | 1460 | [ElectronBot](https://github.com/peng-zhihui/ElectronBot) | 无 | 5718 | C |
-| 1461 | [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) | 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high pe | 4887 | Python |
+| 1461 | [AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) | 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high pe... | 4887 | Python |
 | 1462 | [sperm](https://github.com/darbra/sperm) | 浏览过的精彩逆向文章汇总，值得一看 | 615 | 无 |
 | 1463 | [fmtdate](https://github.com/metakeule/fmtdate) | MS Excel (TM) syntax for Go time/date   | 93 | Go |
 | 1464 | [how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) | 开源机器人学学习指南 | 837 | 无 |
@@ -1478,7 +1478,7 @@
 | 1475 | [diy-go-api](https://github.com/gilcrest/diy-go-api) | A RESTful web server example / template (built with Go) | 275 | Go |
 | 1476 | [bubble-table](https://github.com/Evertras/bubble-table) | A customizable, interactive table component for the Bubble Tea framework | 191 | Go |
 | 1477 | [awesome-go](https://github.com/uhub/awesome-go) | A curated list of awesome Go frameworks, libraries and software. | 1205 | 无 |
-| 1478 | [project-layout](https://github.com/golang-standards/project-layout) | Standard Go Project Layout | 35659 | Makefile |
+| 1478 | [project-layout](https://github.com/golang-standards/project-layout) | Standard Go Project Layout | 35658 | Makefile |
 | 1479 | [go-design-book](https://github.com/eddycjy/go-design-book) | 《Go 语言设计哲学》 | 87 | HTML |
 | 1480 | [db1000n](https://github.com/arriven/db1000n) | 无 | 1193 | Go |
 | 1481 | [graphql.js](https://github.com/octokit/graphql.js) | GitHub GraphQL API client for browsers and Node | 387 | TypeScript |
@@ -1487,7 +1487,7 @@
 | 1484 | [easy-mail](https://github.com/hellflame/easy-mail) | tools for sending emails | 1 | Go |
 | 1485 | [argparse](https://github.com/hellflame/argparse) | argparse for golang | 21 | Go |
 | 1486 | [qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) | iPhone 11 emulated on QEMU | 1550 | C |
-| 1487 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | 253780 | 无 |
+| 1487 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | :books: Freely available programming books | 253781 | 无 |
 | 1488 | [blog-service](https://github.com/go-programming-tour-book/blog-service) | 《Go 语言编程之旅：一起用 Go 做项目》第二章：博客程序（HTTP Server） | 438 | Go |
 | 1489 | [halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) | 一个Halo博客主题，Butterfly 🦋 | 176 | JavaScript |
 | 1490 | [hexo-theme-geek](https://github.com/sanjinhub/hexo-theme-geek) | 一个符合极客精神主义极简的 Hexo 主题 | 334 | CSS |
@@ -1497,8 +1497,8 @@
 | 1494 | [write-one-git-ssh-server](https://github.com/rongfengliang/write-one-git-ssh-server) | one simple git ssh server (just for learning git over ssh ) | 2 | Go |
 | 1495 | [toolkit](https://github.com/actions-go/toolkit) | A go implementation of https://github.com/actions/toolkit | 4 | Go |
 | 1496 | [Grbl_Esp32](https://github.com/CN-CNC/Grbl_Esp32) | A port of Grbl CNC Firmware for ESP32 | 7 | nesC |
-| 1497 | [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.  Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your  | 13943 | C++ |
-| 1498 | [Marlin](https://github.com/CN-CNC/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.  Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your  | 6 | C++ |
+| 1497 | [Marlin](https://github.com/MarlinFirmware/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.  Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your ... | 13943 | C++ |
+| 1498 | [Marlin](https://github.com/CN-CNC/Marlin) | Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform.  Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your ... | 6 | C++ |
 | 1499 | [pushdeer-backend-go](https://github.com/iepngs/pushdeer-backend-go) | pushdeer后端项目go版本 | 10 | Go |
 | 1500 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | 202066 | Python |
 | 1501 | [udgcd](https://github.com/skramm/udgcd) | UnDirected Graph Cycle Detection: C++ wrapper over Boost Graph Library (BGL) | 13 | C++ |
@@ -1509,10 +1509,10 @@
 | 1506 | [oatpp](https://github.com/oatpp/oatpp) | 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable. | 5820 | C++ |
 | 1507 | [protobuf-demo](https://github.com/SuperApeA/protobuf-demo) | 基于protobuf协议的前后端demo，部署在Linux上运行，C++实现 | 1 | C++ |
 | 1508 | [go-clean-template](https://github.com/evrone/go-clean-template) | Clean Architecture template for Golang services | 3794 | Go |
-| 1509 | [luban](https://github.com/focus-creative-games/luban) | 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, ja | 1521 | C# |
+| 1509 | [luban](https://github.com/focus-creative-games/luban) | 你的最佳游戏配置解决方案  {excel, csv, xls, xlsx, json, bson, xml, yaml, lua, unity scriptableobject} => {json, bson, xml, lua, yaml, protobuf(pb), msgpack, flatbuffers, erlang, custom template} data  +  {c++, ja... | 1521 | C# |
 | 1510 | [quicktemplate](https://github.com/valyala/quicktemplate) | Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template | 2592 | Go |
 | 1511 | [go-build-template](https://github.com/thockin/go-build-template) | A Makefile/Dockerfile example for Go projects. | 2863 | Makefile |
-| 1512 | [quick-http](https://github.com/moodboom/quick-http) | An http[s] client and server app skeleton in modern C++ focused on easy creation of RESTful and websockets APIs, and high performance through a delayed-write model used to serve dynamic html completel | 2 | C++ |
+| 1512 | [quick-http](https://github.com/moodboom/quick-http) | An http[s] client and server app skeleton in modern C++ focused on easy creation of RESTful and websockets APIs, and high performance through a delayed-write model used to serve dynamic html completel... | 2 | C++ |
 | 1513 | [CAPIs](https://github.com/BaseMax/CAPIs) | A sample and tiny RESTful API based on C programming and a fastcgi library. | 13 | C |
 | 1514 | [NLTemplate](https://github.com/monsieurgustav/NLTemplate) | Simple HTML template library for C++ | 8 | C++ |
 | 1515 | [maddy](https://github.com/progsource/maddy) | C++ Markdown to HTML header-only parser library | 128 | C++ |
@@ -1529,7 +1529,7 @@
 | 1526 | [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) | ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository. | 1738 | PHP |
 | 1527 | [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) | Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2 | 20242 | Shell |
 | 1528 | [shadowrocket-ipa](https://github.com/hkjswong/shadowrocket-ipa) | 小火箭shadowrocket，quantumult,quantumult等app的官方安裝包。下載時間28/10/2022 | 206 | 无 |
-| 1529 | [EasyPusher](https://github.com/EasyDarwin/EasyPusher) | 免费组件：简单、高效、稳定、免费的一款标准RTSP/RTP协议直播推送库，支持将H.264/H.265/G.711/G.726/AAC等音视频数据推送到RTSP流媒体服务器（例如EasyDarwin）进行低延时直播或者视频通信，支持Windows、Linux、ARM、Android、iOS等平台，EasyPusher配套EasyDarwin流媒体服务器、EasyPlayer RTSP播放器适用于特 | 718 | C++ |
+| 1529 | [EasyPusher](https://github.com/EasyDarwin/EasyPusher) | 免费组件：简单、高效、稳定、免费的一款标准RTSP/RTP协议直播推送库，支持将H.264/H.265/G.711/G.726/AAC等音视频数据推送到RTSP流媒体服务器（例如EasyDarwin）进行低延时直播或者视频通信，支持Windows、Linux、ARM、Android、iOS等平台，EasyPusher配套EasyDarwin流媒体服务器、EasyPlayer RTSP播放器适用于特... | 718 | C++ |
 | 1530 | [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) | 🔥 一个比较特别的 Hexo 主题 | 1334 | CSS |
 | 1531 | [yew](https://github.com/yewstack/yew) | Rust / Wasm framework for building client web apps | 24902 | Rust |
 | 1532 | [acme.sh](https://github.com/acmesh-official/acme.sh) | A pure Unix shell script implementing ACME client protocol | 29094 | Shell |
@@ -1546,7 +1546,7 @@
 | 1543 | [WSAHelper](https://github.com/LSPosed/WSAHelper) | An app that helps you create & remove WSA icon in the start menu. Needed to be installed as a private app. | 137 | Kotlin |
 | 1544 | [awesome-git](https://github.com/dictcp/awesome-git) | A curated list of amazingly awesome Git tools, resources and shiny things | 1693 | 无 |
 | 1545 | [awesome-github-profile-re](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) | This repository contains best profile readme's for your reference.  | 2252 | HTML |
-| 1546 | [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | 收集整理 GitHub 上高质量、有趣的开源项目。 | 8252 | 无 |
+| 1546 | [Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) | 收集整理 GitHub 上高质量、有趣的开源项目。 | 8254 | 无 |
 | 1547 | [awesome-github](https://github.com/AntBranch/awesome-github) | A curated list of awesome GitHub guides, articles, sites, tools, projects and resources.  收集这个列表，只是为了更好地使用GitHub,欢迎提交pr和issue。 | 2015 | 无 |
 | 1548 | [ya-webadb](https://github.com/yume-chan/ya-webadb) | ADB in your browser | 924 | TypeScript |
 | 1549 | [douyin](https://github.com/cnbattle/douyin) | 抖音推荐/搜索页视频列表视频爬虫方案,基于app(虚拟机或真机) 相关技术 golang adb | 860 | Go |
@@ -1658,7 +1658,7 @@
 | 1655 | [Blog](https://github.com/mqyqingfeng/Blog) | 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。 | 28387 | 无 |
 | 1656 | [netmaker](https://github.com/gravitl/netmaker) | Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. | 5451 | Go |
 | 1657 | [TDengine](https://github.com/taosdata/TDengine) | TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps. | 19569 | C |
-| 1658 | [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi | 57464 | C |
+| 1658 | [redis](https://github.com/redis/redis) | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi... | 57464 | C |
 | 1659 | [MLPP](https://github.com/novak-99/MLPP) | A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.  | 1017 | C++ |
 | 1660 | [cockroach](https://github.com/cockroachdb/cockroach) | CockroachDB - the open source, cloud-native distributed SQL database. | 25993 | Go |
 | 1661 | [mhtml-to-html](https://github.com/gonejack/mhtml-to-html) | This commnad line converts .mhtml to .html | 7 | Go |
@@ -1680,7 +1680,7 @@
 | 1677 | [webcamera](https://github.com/node-modules/webcamera) | 网页截图工具 (by phantomjs) | 119 | JavaScript |
 | 1678 | [web-video-live](https://github.com/fuyi501/web-video-live) | 网页H5播放视频流/直播系统，使用 flv.js，vue-video-player播放器，测试支持 rtmp，http-flv，hls 视频流格式，可以做视频监控，也可以通过视频截图。 | 359 | Vue |
 | 1679 | [goserver](https://github.com/marmotedu/goserver) | 教你快速开发一个企业级的Go后端服务（教程 + 代码；Go入门项目） | 130 | Go |
-| 1680 | [markdown](https://github.com/rstudio/markdown) | The first generation of Markdown rendering for R (born in 2012). Now R Markdown usually means the *r*markdown package instead of *markdown*. The repo for the former is at https://github.com/rstudio/rm | 61 | R |
+| 1680 | [markdown](https://github.com/rstudio/markdown) | The first generation of Markdown rendering for R (born in 2012). Now R Markdown usually means the *r*markdown package instead of *markdown*. The repo for the former is at https://github.com/rstudio/rm... | 61 | R |
 | 1681 | [apiserver_demos](https://github.com/lexkong/apiserver_demos) | 企业级Go实战项目。此项目不再维护，如果想学习本项目请移步：https://github.com/marmotedu/goserver | 150 | Go |
 | 1682 | [goreadme](https://github.com/posener/goreadme) | Generate readme file from Go doc. Now available as a Github action! | 192 | Go |
 | 1683 | [go-githubapp](https://github.com/palantir/go-githubapp) | A simple Go framework for building GitHub Apps | 241 | Go |
@@ -1715,7 +1715,7 @@
 | 1712 | [oak](https://github.com/oakmound/oak) | A pure Go game engine | 1311 | Go |
 | 1713 | [shortuuid](https://github.com/lithammer/shortuuid) | :mushroom: A generator library for concise, unambiguous and URL-safe UUIDs | 961 | Go |
 | 1714 | [wish](https://github.com/charmbracelet/wish) | Make SSH apps, just like that! 💫 | 1654 | Go |
-| 1715 | [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. | 17337 | Go |
+| 1715 | [zap](https://github.com/uber-go/zap) | Blazing fast, structured, leveled logging in Go. | 17336 | Go |
 | 1716 | [coredns](https://github.com/coredns/coredns) | CoreDNS is a DNS server that chains plugins | 9928 | Go |
 | 1717 | [qmcdump](https://github.com/MegrezZhu/qmcdump) | 一个简单的QQ音乐解码（qmcflac/qmc0/qmc3 转 flac/mp3），仅为个人学习参考用。 | 324 | C++ |
 | 1718 | [Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE) | 效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感 | 1706 | Python |
@@ -1723,25 +1723,25 @@
 | 1720 | [GoUploadRysnc](https://github.com/0opslab/GoUploadRysnc) | 简单有效的上传文件并同步到多台服务器上，因此可以放弃nfs了！ | 11 | Go |
 | 1721 | [goup](https://github.com/owenthereal/goup) | Elegant Go installer | 371 | Go |
 | 1722 | [python-girlfriend-mood](https://github.com/CasterWx/python-girlfriend-mood) | :kissing_closed_eyes: Analyze her mood through her girlfriend's words ·女朋友聊天时的情绪波动图谱，没女朋友的可自用(雾）。  | 591 | Python |
-| 1723 | [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ | 14684 | TypeScript |
+| 1723 | [medusa](https://github.com/medusajs/medusa) | The open-source Shopify alternative ⚡️ | 14685 | TypeScript |
 | 1724 | [uWebSockets](https://github.com/uNetworking/uWebSockets) | Simple, secure & standards compliant web server for the most demanding of applications | 14790 | C++ |
 | 1725 | [MQTT-C](https://github.com/LiamBindle/MQTT-C) | A portable MQTT C client for embedded systems and PCs alike. | 551 | C |
 | 1726 | [docker-godot](https://github.com/vayan/docker-godot) | Official Linux server builds of Godot Engine + Export templates | 16 | Dockerfile |
 | 1727 | [net-tools](https://github.com/giftnuss/net-tools) | mirror of http://net-tools.berlios.de/ with some patches for easier build with rock linux | 56 | C |
 | 1728 | [rpi-img-builder](https://github.com/pyavitz/rpi-img-builder) | Image Builder for the Raspberry Pi | 137 | Shell |
-| 1729 | [buildroot](https://github.com/buildroot/buildroot) | Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi | 1875 | Makefile |
+| 1729 | [buildroot](https://github.com/buildroot/buildroot) | Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or fi... | 1875 | Makefile |
 | 1730 | [build](https://github.com/armbian/build) | Armbian Linux Build Framework | 2372 | Shell |
 | 1731 | [os](https://github.com/elementary/os) | The OS build system | 795 | Shell |
 | 1732 | [build-linux](https://github.com/MichielDerhaeg/build-linux) | A short tutorial about building Linux based operating systems. | 5030 | Shell |
 | 1733 | [termux-packages](https://github.com/termux/termux-packages) | A build system and primary set of packages for Termux. | 9075 | Shell |
 | 1734 | [openscad](https://github.com/openscad/openscad) | OpenSCAD - The Programmers Solid 3D CAD Modeller   | 5113 | C++ |
 | 1735 | [rapidjson](https://github.com/Tencent/rapidjson) | A fast JSON parser/generator for C++ with both SAX/DOM style API | 12488 | C++ |
-| 1736 | [interview](https://github.com/huihut/interview) | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu | 26467 | C++ |
+| 1736 | [interview](https://github.com/huihut/interview) | 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu... | 26468 | C++ |
 | 1737 | [ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) | WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11 | 7962 | C++ |
 | 1738 | [NoScreen](https://github.com/KANKOSHEV/NoScreen) | Hiding the window from screenshots using the function win32kfull::GreProtectSpriteContent | 281 | C |
 | 1739 | [kernel_window_hide](https://github.com/FiYHer/kernel_window_hide) | 内核级别隐藏指定窗口 | 150 | C++ |
 | 1740 | [carla](https://github.com/carla-simulator/carla) | Open-source simulator for autonomous driving research. | 8468 | C++ |
-| 1741 | [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S | 27342 | C |
+| 1741 | [curl](https://github.com/curl/curl) | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S... | 27342 | C |
 | 1742 | [go-sqlite3](https://github.com/mattn/go-sqlite3) | sqlite3 driver for go using database/sql | 6145 | C |
 | 1743 | [esp-at](https://github.com/espressif/esp-at) | AT application for ESP32 ESP-IDF & ESP32C3 ESP-IDF & ESP8266 ESP8266_RTOS_SDK | 548 | C |
 | 1744 | [esp-idf](https://github.com/espressif/esp-idf) | Espressif IoT Development Framework. Official development framework for Espressif SoCs. | 9363 | C |
@@ -1772,12 +1772,12 @@
 | 1769 | [learn-kvm](https://github.com/yifengyou/learn-kvm) | Qemu  KVM(Kernel Virtual Machine)学习笔记 | 632 | C |
 | 1770 | [cloudpods](https://github.com/yunionio/cloudpods) | A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台 | 1539 | Go |
 | 1771 | [pikvm](https://github.com/pikvm/pikvm) | Open and inexpensive DIY IP-KVM based on Raspberry Pi | 5204 | 无 |
-| 1772 | [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat | 44128 | C |
+| 1772 | [git](https://github.com/git/git) | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat... | 44128 | C |
 | 1773 | [devtools](https://github.com/vuejs/devtools) | ⚙️ Browser devtools extension for debugging Vue.js applications. | 23071 | TypeScript |
 | 1774 | [cJSON](https://github.com/DaveGamble/cJSON) | Ultralightweight JSON parser in ANSI C | 8087 | C |
 | 1775 | [beats](https://github.com/elastic/beats) | :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash  | 11344 | Go |
 | 1776 | [3d](https://github.com/dragonir/3d) | Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇 | 1726 | JavaScript |
-| 1777 | [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) | DevToys For mac | 6036 | Swift |
+| 1777 | [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) | DevToys For mac | 6037 | Swift |
 | 1778 | [opensource.guide](https://github.com/github/opensource.guide) | 📚 Community guides for open source creators | 11417 | HTML |
 | 1779 | [router](https://github.com/vuejs/router) | 🚦 The official router for Vue.js | 2500 | TypeScript |
 | 1780 | [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) | A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ | 14697 | Vue |
@@ -1794,7 +1794,7 @@
 | 1791 | [interview-go](https://github.com/lifei6671/interview-go) | golang面试题集合 | 3599 | Go |
 | 1792 | [codeforces-go](https://github.com/EndlessCheng/codeforces-go) | Golang 算法竞赛模板库  Solutions to Codeforces by Go 💭💡🎈 | 1286 | Go |
 | 1793 | [nezha](https://github.com/naiba/nezha) | :trollface: Self-hosted, lightweight server and website monitoring and O&M tool | 3405 | Go |
-| 1794 | [CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) | 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源 | 2905 | C++ |
+| 1794 | [CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408) | 💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源 | 2906 | C++ |
 | 1795 | [Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice) | 搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。 | 5134 | C++ |
 | 1796 | [C-Resource](https://github.com/Blitzer207/C-Resource) | 黑马程序员匠心之作C++教程从0到1入门编程 | 580 | C++ |
 | 1797 | [Cplusplus-Concurrency-In-](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) | A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》 | 4283 | C++ |
@@ -1806,7 +1806,7 @@
 | 1803 | [WechatExport-iOS](https://github.com/stomakun/WechatExport-iOS) | Save iOS WeChat history as HTML or TXT with neat layout and picture & audio support. | 664 | C# |
 | 1804 | [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Wechat Chat History Exporter 微信聊天记录导出备份程序 | 2530 | C++ |
 | 1805 | [deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) | Deepin Wine for Ubuntu/Debian | 6023 | C |
-| 1806 | [IdGenerator](https://github.com/yitter/IdGenerator) | 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId | 985 | C |
+| 1806 | [IdGenerator](https://github.com/yitter/IdGenerator) | 💎多语言实现，高性能生成唯一数字ID。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/JavaScript/TypeScript/Python/Pascal 多语言，提供其它适用于其它语言的多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId... | 985 | C |
 | 1807 | [smartdns](https://github.com/pymumu/smartdns) | A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。 | 5451 | C |
 | 1808 | [kernel_new_features](https://github.com/0voice/kernel_new_features) | 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等 | 1232 | C |
 | 1809 | [Data-Structure](https://github.com/kangjianwei/Data-Structure) | 《数据结构》-严蔚敏.吴伟民-教材源码与习题解析 | 2765 | C |
@@ -1827,7 +1827,7 @@
 | 1824 | [blog](https://github.com/geektutu/blog) | 极客兔兔的博客，Coding Coding 创建有趣的开源项目。 | 129 | JavaScript |
 | 1825 | [Awesome-Knowledge-Distill](https://github.com/FLHonker/Awesome-Knowledge-Distillation) | Awesome Knowledge-Distillation. 分类整理的知识蒸馏paper(2014-2021)。 | 1972 | 无 |
 | 1826 | [awesome-distributed-syste](https://github.com/theanalyst/awesome-distributed-systems) | A curated list to learn about distributed systems | 8503 | 无 |
-| 1827 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. | 53633 | Rust |
+| 1827 | [tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend. | 53634 | Rust |
 | 1828 | [colima](https://github.com/abiosoft/colima) | Container runtimes on macOS (and Linux) with minimal setup | 7074 | Go |
 | 1829 | [YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge) | Allows you easily scan for and delete scam comments using several methods. | 4220 | Python |
 | 1830 | [awesome-analytics](https://github.com/newTendermint/awesome-analytics) | A curated list of analytics frameworks, software and other tools. | 3395 | 无 |
@@ -1846,7 +1846,7 @@
 | 1843 | [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) | A curated list of awesome places to learn and/or practice algorithms. | 12571 | 无 |
 | 1844 | [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | 20120 | 无 |
 | 1845 | [go-patterns](https://github.com/tmrts/go-patterns) | Curated list of Go design patterns, recipes and idioms | 20399 | Go |
-| 1846 | [css-protips](https://github.com/AllThingsSmitty/css-protips) | ⚡️ A collection of tips to help take your CSS skills pro 🦾 | 23318 | 无 |
+| 1846 | [css-protips](https://github.com/AllThingsSmitty/css-protips) | ⚡️ A collection of tips to help take your CSS skills pro 🦾 | 23319 | 无 |
 | 1847 | [awesome-docker](https://github.com/veggiemonk/awesome-docker) | :whale: A curated list of Docker resources and projects | 23294 | 无 |
 | 1848 | [awesome-vscode](https://github.com/viatsko/awesome-vscode) | 🎨 A curated list of delightful VS Code packages and resources. | 21357 | JavaScript |
 | 1849 | [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) | Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。 | 25210 | Makefile |
@@ -1857,7 +1857,7 @@
 | 1854 | [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | A collection of various awesome lists for hackers, pentesters and security researchers | 57786 | 无 |
 | 1855 | [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software. | 56602 | Python |
 | 1856 | [architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 后端架构师技术图谱 | 57171 | 无 |
-| 1857 | [the-book-of-secret-knowle](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 81802 | 无 |
+| 1857 | [the-book-of-secret-knowle](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 81803 | 无 |
 | 1858 | [awesome-vue](https://github.com/vuejs/awesome-vue) | 🎉 A curated list of awesome things related to Vue.js | 66845 | 无 |
 | 1859 | [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | The iconic SVG, font, and CSS toolkit | 70372 | JavaScript |
 | 1860 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 90340 | Go |
@@ -1873,7 +1873,7 @@
 | 1870 | [spacemacs](https://github.com/syl20bnr/spacemacs) | A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim! | 22595 | Emacs Lisp |
 | 1871 | [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) | MacOS Big Sur like theme for Gnome desktops | 3626 | SCSS |
 | 1872 | [go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) | A hands-on approach to getting started with Go generics. | 1717 | Go |
-| 1873 | [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) | 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple to go along with your VSCode. Reviewed by several designers and 75+ theme versions released to keep it updated. One o | 616 | 无 |
+| 1873 | [shades-of-purple-vscode](https://github.com/ahmadawais/shades-of-purple-vscode) | 🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple to go along with your VSCode. Reviewed by several designers and 75+ theme versions released to keep it updated. One o... | 616 | 无 |
 | 1874 | [slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | 23177 | TypeScript |
 | 1875 | [milvus](https://github.com/milvus-io/milvus) | Vector database for scalable similarity search and AI applications. | 14146 | Go |
 | 1876 | [Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP) | A tiny KV storage based on skiplist written in C++ language  使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀 | 927 | C++ |
@@ -1917,7 +1917,7 @@
 | 1914 | [gengine](https://github.com/bilibili/gengine) | 无 | 1334 | Go |
 | 1915 | [myactions](https://github.com/hiifong/myactions) | Hugo GitHub Page Action | 1 | 无 |
 | 1916 | [git-publish-subdir-action](https://github.com/s0/git-publish-subdir-action) | GitHub Action to push a subdirectory as a branch to any git repo (e.g. for GitHub Pages) | 134 | TypeScript |
-| 1917 | [openvscode-server](https://github.com/gitpod-io/openvscode-server) | Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. | 3633 | TypeScript |
+| 1917 | [openvscode-server](https://github.com/gitpod-io/openvscode-server) | Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere. | 3634 | TypeScript |
 | 1918 | [openvscode-releases](https://github.com/gitpod-io/openvscode-releases) | This repo is only to produce releases for OpenVSCode Server. | 65 | Dockerfile |
 | 1919 | [gitpod](https://github.com/gitpod-io/gitpod) | Gitpod automates the provisioning of ready-to-code development environments.  | 9549 | TypeScript |
 | 1920 | [mini_app_ai](https://github.com/agilab/mini_app_ai) | 深度识图：一个AI小程序 | 40 | JavaScript |
@@ -1941,7 +1941,7 @@
 | 1938 | [MP-CU](https://github.com/Color-UI/MP-CU) | MP-CU, colorui3.x 微信小程序原生版 | 184 | SCSS |
 | 1939 | [dotfiles-public](https://github.com/craftzdog/dotfiles-public) | My personal dotfiles | 3910 | Lua |
 | 1940 | [github-contribution-graph](https://github.com/ez4o/github-contribution-graph) | Add beautiful GitHub contribution/commit graph to your profile README! | 41 | Go |
-| 1941 | [waka-box-go](https://github.com/YouEclipse/waka-box-go) | 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在  | 143 | Go |
+| 1941 | [waka-box-go](https://github.com/YouEclipse/waka-box-go) | 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 ... | 143 | Go |
 | 1942 | [profile-readme-stats](https://github.com/teoxoy/profile-readme-stats) | Showcase your github stats on your profile README.md | 171 | TypeScript |
 | 1943 | [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) | Card-style Hugo theme designed for bloggers | 2717 | HTML |
 | 1944 | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) | 💄CSS tricks for web developers~ | 4562 | CSS |
@@ -2006,12 +2006,12 @@
 | 2003 | [mpvue-entry](https://github.com/F-loat/mpvue-entry) | ⛓️ 集中式页面配置，统一构建入口，支持新增页面热更新 | 354 | JavaScript |
 | 2004 | [mpvue-xbyjShop](https://github.com/yllg/mpvue-xbyjShop) | 前端mpvue🚀后端nodejs🔋+thinkjs+mysql📂微信小程序商城(准备用uniapp重构并适配多端) | 1000 | Vue |
 | 2005 | [leetcode](https://github.com/soulmachine/leetcode) | LeetCode题解，151道题完整版。广告：推荐刷题网站 https://www.lintcode.com/?utm_source=soulmachine | 10799 | TeX |
-| 2006 | [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ | 22011 | TypeScript |
+| 2006 | [astro](https://github.com/withastro/astro) | Build faster websites with Astro's next-gen island architecture 🏝✨ | 22013 | TypeScript |
 | 2007 | [haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) | 无 | 947 | EJS |
 | 2008 | [vue-pdfjs-demo](https://github.com/rossta/vue-pdfjs-demo) | A demo PDF viewer implemented with Vue and PDF.js | 395 | Vue |
 | 2009 | [pdfh5](https://github.com/gjTool/pdfh5) | web/h5/移动端PDF预览插件 | 698 | JavaScript |
 | 2010 | [flutter_easyloading](https://github.com/nslogx/flutter_easyloading) | ✨A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS、Android and Web | 985 | Dart |
-| 2011 | [pdf](https://github.com/itdevbooks/pdf) | 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC | 18504 | 无 |
+| 2011 | [pdf](https://github.com/itdevbooks/pdf) | 编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC... | 18504 | 无 |
 | 2012 | [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux | 21318 | Markdown |
 | 2013 | [linux-insides](https://github.com/0xAX/linux-insides) | A little bit about a linux kernel | 27257 | Python |
 | 2014 | [linux-insides-zh](https://github.com/MintCN/linux-insides-zh) | Linux 内核揭秘 | 5915 | 无 |
@@ -2085,7 +2085,7 @@
 | 2082 | [vim](https://github.com/vim/vim) | The official Vim repository | 28821 | Vim Script |
 | 2083 | [vimrc](https://github.com/amix/vimrc) | The ultimate Vim configuration (vimrc) | 28017 | Vim Script |
 | 2084 | [esp32cam-and-mp](https://github.com/jeiry/esp32cam-and-mp) | esp32cam视频在小程序上现实 | 22 | C++ |
-| 2085 | [darwin-xnu](https://github.com/apple/darwin-xnu) | The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report | 10339 | C |
+| 2085 | [darwin-xnu](https://github.com/apple/darwin-xnu) | The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-report... | 10339 | C |
 | 2086 | [the-swift-programming-lan](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) | 中文版 Apple 官方 Swift 教程《The Swift Programming Language》 | 20645 | CSS |
 | 2087 | [act](https://github.com/nektos/act) | Run your GitHub Actions locally 🚀 | 29115 | Go |
 | 2088 | [gpio](https://github.com/warthog618/gpio) | A native Go library for Raspberry Pi GPIO | 108 | Go |
@@ -2114,7 +2114,7 @@
 | 2111 | [web](https://github.com/hoisie/web) | The easiest way to create web applications with Go | 3603 | Go |
 | 2112 | [oauth2](https://github.com/golang/oauth2) | Go OAuth2 | 4399 | Go |
 | 2113 | [gocron](https://github.com/ouqiang/gocron) | 定时任务管理系统 | 4832 | Go |
-| 2114 | [ws](https://github.com/gobwas/ws) | Tiny WebSocket library for Go. | 4782 | Go |
+| 2114 | [ws](https://github.com/gobwas/ws) | Tiny WebSocket library for Go. | 4783 | Go |
 | 2115 | [TopList](https://github.com/tophubs/TopList) | 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish | 4490 | Go |
 | 2116 | [awesome-go-cn](https://github.com/jobbole/awesome-go-cn) | Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。 | 5593 | 无 |
 | 2117 | [go-study-index](https://github.com/unknwon/go-study-index) | Go 语言学习资料索引 | 5527 | 无 |
@@ -2125,12 +2125,12 @@
 | 2122 | [go-gin-example](https://github.com/eddycjy/go-gin-example) | An example of gin | 5789 | Go |
 | 2123 | [goproxy](https://github.com/goproxyio/goproxy) | A global proxy for Go modules. | 5432 | Go |
 | 2124 | [xlsx](https://github.com/tealeg/xlsx) | (No longer maintained!) Go (golang) library for reading and writing XLSX files.  | 5416 | Go |
-| 2125 | [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a si | 5703 | Go |
+| 2125 | [EasyDarwin](https://github.com/EasyDarwin/EasyDarwin) | open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a si... | 5703 | Go |
 | 2126 | [swag](https://github.com/swaggo/swag) | Automatically generate RESTful API documentation with Swagger 2.0 for Go. | 7083 | Go |
 | 2127 | [yaml](https://github.com/go-yaml/yaml) | YAML support for the Go language. | 5982 | Go |
 | 2128 | [mindoc](https://github.com/mindoc-org/mindoc) | Golang实现的基于beego框架的接口在线文档管理系统 | 6038 | Go |
 | 2129 | [wails](https://github.com/wailsapp/wails) | Create beautiful applications using Go | 12623 | Go |
-| 2130 | [go-admin](https://github.com/go-admin-team/go-admin) | 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://www.go-admin.pro   VUE Demo： https://vue2.go-admin.dev VUE3 Demo： https://vue3.go-a | 7602 | Go |
+| 2130 | [go-admin](https://github.com/go-admin-team/go-admin) | 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://www.go-admin.pro   VUE Demo： https://vue2.go-admin.dev VUE3 Demo： https://vue3.go-a... | 7602 | Go |
 | 2131 | [go-admin](https://github.com/GoAdminGroup/go-admin) | A golang framework helps gopher to build a data visualization and admin panel in ten minutes | 6432 | Go |
 | 2132 | [go-cache](https://github.com/patrickmn/go-cache) | An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. | 6637 | Go |
 | 2133 | [go-app](https://github.com/maxence-charriere/go-app) | A package to build progressive web apps with Go programming language and WebAssembly. | 6601 | Go |
@@ -2156,9 +2156,9 @@
 | 2153 | [Qv2ray](https://github.com/Qv2ray/Qv2ray) | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端  支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5  使用 C++ / Qt 开发  可拓展插件式设计 :star: | 14397 | C++ |
 | 2154 | [httprouter](https://github.com/julienschmidt/httprouter) | A high performance HTTP request router that scales well | 14606 | Go |
 | 2155 | [grpc-go](https://github.com/grpc/grpc-go) | The Go language implementation of gRPC. HTTP/2 based RPC | 17054 | Go |
-| 2156 | [PicGo](https://github.com/Molunerfinn/PicGo) | :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder | 18582 | TypeScript |
-| 2157 | [websocket](https://github.com/gorilla/websocket) | A fast, well-tested and widely used WebSocket implementation for Go. | 18325 | Go |
-| 2158 | [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | Learn Go with test-driven development | 18667 | Go |
+| 2156 | [PicGo](https://github.com/Molunerfinn/PicGo) | :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder | 18583 | TypeScript |
+| 2157 | [websocket](https://github.com/gorilla/websocket) | A fast, well-tested and widely used WebSocket implementation for Go. | 18326 | Go |
+| 2158 | [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) | Learn Go with test-driven development | 18666 | Go |
 | 2159 | [fasthttp](https://github.com/valyala/fasthttp) | Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http | 18631 | Go |
 | 2160 | [go-micro](https://github.com/go-micro/go-micro) | A Go microservices framework | 19615 | Go |
 | 2161 | [fiber](https://github.com/gofiber/fiber) | ⚡️ Express inspired web framework written in Go | 23121 | Go |
@@ -2168,7 +2168,7 @@
 | 2165 | [rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | 35399 | Go |
 | 2166 | [gopher](https://github.com/go-pay/gopher) | Go Web 开发通用基础库 | 18 | Go |
 | 2167 | [wechat-sdk](https://github.com/go-pay/wechat-sdk) | 微信 SDK（接口补充中...） | 25 | Go |
-| 2168 | [JustAuth](https://github.com/justauth/JustAuth) | 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、 | 13949 | Java |
+| 2168 | [JustAuth](https://github.com/justauth/JustAuth) | 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、... | 13949 | Java |
 | 2169 | [DocHub](https://github.com/TruthHun/DocHub) | 参考百度文库，使用Beego（Golang）开发的开源文库系统 | 2778 | Go |
 | 2170 | [go-stress-testing](https://github.com/link1st/go-stress-testing) | go 实现的压测工具，ab、locust、Jmeter压测工具介绍【单台机器100w连接压测实战】 | 2595 | Go |
 | 2171 | [CloudStore](https://github.com/TruthHun/CloudStore) | 国内各大云存储服务接口集成，让云存储使用更方便简单 | 94 | Go |
@@ -2204,7 +2204,7 @@
 | 2201 | [expert_readed_books](https://github.com/0voice/expert_readed_books) | 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 | 2267 | 无 |
 | 2202 | [naive-ui-admin](https://github.com/jekip/naive-ui-admin) | Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。 | 3068 | Vue |
 | 2203 | [online-resume](https://github.com/caojiele/online-resume) | 项目部署流程先从初始化Git库开始，编辑简历文件，将文件部署在Github Pages上，最后可以将其保存为pdf格式并打印出来。 | 40 | HTML |
-| 2204 | [InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源 | 6309 | Python |
+| 2204 | [InfoSpider](https://github.com/kangvcar/InfoSpider) | INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源... | 6309 | Python |
 | 2205 | [public-speaking-with-mean](https://github.com/xiaolai/public-speaking-with-meaning) | 《我也有话要说》—— 普通人的当众讲话技能  | 930 | Python |
 | 2206 | [twe185](https://github.com/xiaolai/twe185) | TOEFL iBT 高分作文 | 312 | 无 |
 | 2207 | [zuoxiangqicheng](https://github.com/xiaolai/zuoxiangqicheng) | 坐享其成——最简单的大脑锻炼方式 | 201 | 无 |
@@ -2224,7 +2224,7 @@
 | 2221 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes | 34587 | Python |
 | 2222 | [bgfx](https://github.com/bkaradzic/bgfx) | Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. | 12315 | C++ |
 | 2223 | [USTC-Course](https://github.com/USTC-Resource/USTC-Course) | :heart:中国科学技术大学课程资源 | 12988 | C++ |
-| 2224 | [Tasmota](https://github.com/arendst/Tasmota) | Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum | 18574 | C |
+| 2224 | [Tasmota](https://github.com/arendst/Tasmota) | Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full docum... | 18574 | C |
 | 2225 | [proxmark3](https://github.com/XMTongXie/proxmark3) | proxmark3使用手册，驱动，连接工具 | 8 | Lua |
 | 2226 | [proxmark3-android](https://github.com/angelsl/proxmark3-android) | Proxmark3 client for Android | 20 | C |
 | 2227 | [RFIDtools](https://github.com/RfidResearchGroup/RFIDtools) | RRG Android App for use with Proxmark3 RDV4 and the blueshark addon | 288 | C |
@@ -2237,7 +2237,7 @@
 | 2234 | [aliyun-ddns-cli](https://github.com/honwen/aliyun-ddns-cli) | ALiDDNS - Dynamic DNS CLI for [aliyun.com] | 317 | Go |
 | 2235 | [ddns](https://github.com/pboehm/ddns) | A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP | 570 | Go |
 | 2236 | [nging](https://github.com/admpub/nging) | 漂亮的Go语言通用后台管理系统，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备 | 874 | Go |
-| 2237 | [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 | 6686 | 无 |
+| 2237 | [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) | 人人都能用英语 | 6687 | 无 |
 | 2238 | [ydict](https://github.com/TimothyYe/ydict) | Yet another command-line youdao dictionary for geeks! | 352 | Go |
 | 2239 | [godns](https://github.com/TimothyYe/godns) | A dynamic DNS client tool supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go. | 1177 | Go |
 | 2240 | [biligo](https://github.com/shautzin/biligo) | Go 快速 webapi 开发脚手架，省去自己动搭建 | 12 | Go |
@@ -2264,25 +2264,25 @@
 | 2261 | [HBUE-OJ](https://github.com/Clarence-Wang/HBUE-OJ) | 湖经在线测评系统源码 | 1 | HTML |
 | 2262 | [gin-chat-demo](https://github.com/CocaineCong/gin-chat-demo) | gin+websocket+mongodb实现 IM 即时聊天系统，基于WS连接的即时聊天，支持单聊，在线回复以及历史记录查询 | 60 | Go |
 | 2263 | [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Terraform AWS provider | 7875 | Go |
-| 2264 | [chenyuEbook](https://github.com/changechenyu/chenyuEbook) | 1000多个电子书涉及方向有C/C++、java基础、java服务端、php、Go、C#、python、前端(小程序、uniapp、跨平台...)、Android/ios、数据结构和算法、面试、linux入门、linux c/c++服务端、嵌入式、运维、linux内核、linux内核、linux驱动、底层操作系统、计算机网络、设计模式、数据库、大数据、云计算、区块链、windows开发、游戏开发、 | 190 | 无 |
+| 2264 | [chenyuEbook](https://github.com/changechenyu/chenyuEbook) | 1000多个电子书涉及方向有C/C++、java基础、java服务端、php、Go、C#、python、前端(小程序、uniapp、跨平台...)、Android/ios、数据结构和算法、面试、linux入门、linux c/c++服务端、嵌入式、运维、linux内核、linux内核、linux驱动、底层操作系统、计算机网络、设计模式、数据库、大数据、云计算、区块链、windows开发、游戏开发、... | 190 | 无 |
 | 2265 | [CS-EmbeddedLinux-Book](https://github.com/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book) | 嵌入式，计算机常用电子书籍整理，并且附带下载链接，涵盖：ARM体系与架构，C/C++语言，汇编语言，操作系统，计算机网络，计算组成原理，Linux驱动，Linux内核，单片机开发，程序员认知成长，笔试面试技巧等书籍。长期更新中，欢迎star~ | 940 | 无 |
 | 2266 | [chat_room](https://github.com/fujie-xiyou/chat_room) | 聊天室 -- 17年暑假项目(Linux C网络编程) | 287 | C |
 | 2267 | [MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer) | 一款可运行的基于C++ 实现的WebServer服务器，基于《TCPIP网络编程》和《Linux高性能服务器编程》实现的服务器项目。 | 652 | C |
 | 2268 | [TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote) | 📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记 | 1226 | C |
 | 2269 | [yolanda](https://github.com/froghui/yolanda) | 极客时间<网络编程实战>代码 | 820 | C |
-| 2270 | [golangFamily](https://github.com/xiaobaiTech/golangFamily) | 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子 | 3208 | Go |
+| 2270 | [golangFamily](https://github.com/xiaobaiTech/golangFamily) | 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子... | 3208 | Go |
 | 2271 | [Computer-Networking-A-Top](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) | 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。 | 4380 | Python |
 | 2272 | [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) | 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 | 14629 | 无 |
 | 2273 | [awesome-programming-books](https://github.com/jobbole/awesome-programming-books) | 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等 | 13254 | 无 |
 | 2274 | [q-wifi](https://github.com/q-iot/q-wifi) | 酷享物联平台的固件程序（基于ESP8266 RTOS） | 10 | C |
 | 2275 | [linux_stm32](https://github.com/zwx230741/linux_stm32) | linux下搭建stm32开发环境，基于stm32固件库 | 10 | C |
 | 2276 | [node-mcu-example](https://github.com/huanghyw/node-mcu-example) | 基于ESP8266芯片，使用NodeMCU固件，简单的智能硬件原型 | 11 | Lua |
-| 2277 | [Gtouch](https://github.com/G-T-L/Gtouch) | G touch就是一个把普通显示屏改造为触控屏的项目，该装置可为电脑、投影等设备增加触屏的功能。他需要的仅仅是一个对应系统的驱动以及一个轻松固定可随时拆卸的小型外部装置。通过红外激光发射器扫描屏幕表面，手指放上去之后加了滤光片的摄像头即能捕捉到手指的反射的红外光，将其转化为二值图后通过算法把亮斑转化为单点的坐标，配合驱动通过校准程序得到的屏幕坐标转化参数矩阵将其映射到电脑屏幕上对应的坐标值，与前几 | 22 | C++ |
+| 2277 | [Gtouch](https://github.com/G-T-L/Gtouch) | G touch就是一个把普通显示屏改造为触控屏的项目，该装置可为电脑、投影等设备增加触屏的功能。他需要的仅仅是一个对应系统的驱动以及一个轻松固定可随时拆卸的小型外部装置。通过红外激光发射器扫描屏幕表面，手指放上去之后加了滤光片的摄像头即能捕捉到手指的反射的红外光，将其转化为二值图后通过算法把亮斑转化为单点的坐标，配合驱动通过校准程序得到的屏幕坐标转化参数矩阵将其映射到电脑屏幕上对应的坐标值，与前几... | 22 | C++ |
 | 2278 | [stm32-iap-msd](https://github.com/havenxie/stm32-iap-msd) | STM32内部Flash模拟成U盘，实现拖拽Hex/Bin文件进行固件升级 | 26 | C |
 | 2279 | [miniprogram-picker](https://github.com/IceApriler/miniprogram-picker) | 微信小程序自定义组件Picker。本组件对微信小程序原生Picker组件进行了二次封装，开发者只需要提供固定数据结构的sourceData，再进行一些必要配置，本组件就可以自动帮助开发者处理联动逻辑。 | 31 | JavaScript |
-| 2280 | [octopus](https://github.com/hongmaple/octopus) | octopus高校教学综合平台，主要用于对教师，学生，管理的信息管理，课程管理，专业信息管理，班级管理，可以添加题库，可以上传下载教学资料，可以设置考试试卷，可以进行在线考试和自动评分。本系统基于若依框架，感谢若依的开源，RuoYi 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、Thymeleaf、Bootstrap | 97 | HTML |
+| 2280 | [octopus](https://github.com/hongmaple/octopus) | octopus高校教学综合平台，主要用于对教师，学生，管理的信息管理，课程管理，专业信息管理，班级管理，可以添加题库，可以上传下载教学资料，可以设置考试试卷，可以进行在线考试和自动评分。本系统基于若依框架，感谢若依的开源，RuoYi 是一个 Java EE 企业级快速开发平台，基于经典技术组合（Spring Boot、Apache Shiro、MyBatis、Thymeleaf、Bootstrap... | 97 | HTML |
 | 2281 | [MocoMoco_Software](https://github.com/golaced/MocoMoco_Software) | 四足机器人 固件集合 | 45 | 无 |
-| 2282 | [Loli3](https://github.com/wooddoor/Loli3) | 这个是萝莉3航模遥控器的开源项目，包含硬件电路及固件源码，原创作者“我爱萝丽爱萝丽”，原发于“模型中国”论坛，后来“模型中国”论坛消亡，作者遂转战于“模友之吧”，虽然萝莉4代从提出到现在已经有1年半了（2017年12月31日提出萝莉4代至今），但由于4代正式版一直难产当中，到目前为止最新版仍然是3代，由于群（1群：272416403；2群：556473744）里文件比较混乱，特将相关内容放于git | 60 | C |
+| 2282 | [Loli3](https://github.com/wooddoor/Loli3) | 这个是萝莉3航模遥控器的开源项目，包含硬件电路及固件源码，原创作者“我爱萝丽爱萝丽”，原发于“模型中国”论坛，后来“模型中国”论坛消亡，作者遂转战于“模友之吧”，虽然萝莉4代从提出到现在已经有1年半了（2017年12月31日提出萝莉4代至今），但由于4代正式版一直难产当中，到目前为止最新版仍然是3代，由于群（1群：272416403；2群：556473744）里文件比较混乱，特将相关内容放于git... | 60 | C |
 | 2283 | [cloud_disk](https://github.com/sunl888/cloud_disk) | 本云网盘为您提供优质的文件网络存储和分享服务。具有空间大、速度快、安全稳固，同时永不限速等优点。:tada: :tada: :tada: Please star ^_^（前端请提issues） | 56 | Go |
 | 2284 | [xiaoaimqtt](https://github.com/qlwz/xiaoaimqtt) | 小爱MQTT | 32 | C |
 | 2285 | [Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266) | Native Apple HomeKit accessory implementation for the ESP8266 Arduino core. | 1112 | C |
@@ -2296,7 +2296,7 @@
 | 2293 | [NanoPi-R4S-R4SE](https://github.com/DHDAXCW/NanoPi-R4S-R4SE) | 基于 Lean&Lienol 源码的 NanoPi R4S 的 OpenWrt 固件。 | 955 | Shell |
 | 2294 | [zTC1](https://github.com/a2633063/zTC1) | 斐讯TC1智能排插个人固件. 仅支持TC1硬件版本为a1的版本 | 665 | 无 |
 | 2295 | [XwareDesktop](https://github.com/Xinkai/XwareDesktop) | 桌面化迅雷固件 | 907 | Python |
-| 2296 | [OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY) |        多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900 | 1106 | Shell |
+| 2296 | [OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY) |        多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900... | 1106 | Shell |
 | 2297 | [nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) | Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩 | 4095 | Shell |
 | 2298 | [woapp](https://github.com/790431300/woapp) | web模拟安卓操作系统，php开发，内置文件管理，电话，短信，拍照，用在树莓派上可做智能家居，视频监控，机顶盒等…… | 23 | PHP |
 | 2299 | [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) | yubikey-agent is a seamless ssh-agent for YubiKeys. | 2129 | Go |
@@ -2304,8 +2304,8 @@
 | 2301 | [rpi-firmware](https://github.com/Hexxeh/rpi-firmware) | Firmware files for the Raspberry Pi | 783 | C |
 | 2302 | [usbboot](https://github.com/raspberrypi/usbboot) | Raspberry Pi USB booting code, moved from tools repository | 604 | Python |
 | 2303 | [linux](https://github.com/raspberrypi/linux) | Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/ | 9339 | C |
-| 2304 | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 | 6427 | C# |
-| 2305 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. | 16695 | Rust |
+| 2304 | [PDFPatcher](https://github.com/wmjordan/PDFPatcher) | PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 | 6428 | C# |
+| 2305 | [turbo](https://github.com/vercel/turbo) | Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. | 16696 | Rust |
 | 2306 | [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 electron 的音乐软件 | 21931 | JavaScript |
 | 2307 | [mizu](https://github.com/up9inc/mizu) | API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes | 4182 | C |
 | 2308 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free. | 356580 | TypeScript |
@@ -2333,7 +2333,7 @@
 | 2330 | [gobot](https://github.com/hybridgroup/gobot) | Golang framework for robotics, drones, and the Internet of Things (IoT) | 7986 | Go |
 | 2331 | [go-github](https://github.com/google/go-github) | Go library for accessing the GitHub v3 API | 8919 | Go |
 | 2332 | [The-Golang-Standard-Libra](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。 | 8940 | Go |
-| 2333 | [redigo](https://github.com/gomodule/redigo) | Go client for Redis | 9325 | Go |
+| 2333 | [redigo](https://github.com/gomodule/redigo) | Go client for Redis | 9324 | Go |
 | 2334 | [compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) | Run compilers interactively from your web browser and interact with the assembly | 11906 | TypeScript |
 | 2335 | [git-lfs](https://github.com/git-lfs/git-lfs) | Git extension for versioning large files | 10789 | Go |
 | 2336 | [nats-server](https://github.com/nats-io/nats-server) | High-Performance server for NATS.io, the cloud and edge native messaging system. | 11783 | Go |
@@ -2344,8 +2344,8 @@
 | 2341 | [mysql](https://github.com/go-sql-driver/mysql) | Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package | 12762 | Go |
 | 2342 | [tink](https://github.com/google/tink) | Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. | 12791 | C++ |
 | 2343 | [wtf](https://github.com/wtfutil/wtf) | The personal information dashboard for your terminal | 14093 | Go |
-| 2344 | [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) | Roadmap to becoming a Go developer in 2020 | 15520 | 无 |
-| 2345 | [go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. | 21306 | Go |
+| 2344 | [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) | Roadmap to becoming a Go developer in 2020 | 15519 | 无 |
+| 2345 | [go-zero](https://github.com/zeromicro/go-zero) | A cloud-native Go microservices framework with cli tool for productivity. | 21307 | Go |
 | 2346 | [lux](https://github.com/iawia002/lux) | 👾 Fast and simple video download library and CLI tool written in Go | 19393 | Go |
 | 2347 | [kit](https://github.com/go-kit/kit) | A standard library for microservices. | 24122 | Go |
 | 2348 | [kubernetes](https://github.com/kubernetes/kubernetes) | Production-Grade Container Scheduling and Management | 93464 | Go |
@@ -2396,15 +2396,15 @@
 | 2393 | [FalconEngine](https://github.com/wyh267/FalconEngine) | 一个go语言实现的简单搜索引擎 | 632 | Go |
 | 2394 | [BaiduyunSpider](https://github.com/k1995/BaiduyunSpider) | 百度云网盘搜索引擎，包含爬虫 & 网站 | 1010 | JavaScript |
 | 2395 | [wukong](https://github.com/huichen/wukong) | 高度可定制的全文搜索引擎 | 4263 | Go |
-| 2396 | [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名 | 44549 | Python |
+| 2396 | [funNLP](https://github.com/fighting41love/funNLP) | 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名... | 44549 | Python |
 | 2397 | [hub](https://github.com/github/hub) | A command-line tool that makes git easier to use with GitHub. | 22129 | Go |
-| 2398 | [hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | 63479 | Go |
+| 2398 | [hugo](https://github.com/gohugoio/hugo) | The world’s fastest framework for building websites. | 63480 | Go |
 | 2399 | [Go42](https://github.com/ffhelicopter/Go42) | 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。 | 4528 | Go |
 | 2400 | [gocv](https://github.com/hybridgroup/gocv) | Go package for computer vision using OpenCV 4 and beyond. | 5097 | Go |
 | 2401 | [RAID](https://github.com/riyag283/RAID) | Basic implementation of RAID (Redundant Arrays of Independent Disks) technique | 1 | C++ |
 | 2402 | [my_book](https://github.com/lisider/my_book) | 喜欢的技术书籍 | 126 | C |
 | 2403 | [botbay](https://github.com/greedisgoood/botbay) | botbay-以生物多样性为命题的私有机器人赋能平台 | 166 | JavaScript |
-| 2404 | [xplay](https://github.com/nulijiabei/xplay) | 专为树莓派(Raspberry Pi)设计的多媒体播放器且支持(Windows、Linux、Android)系统，支持视频、音频、流媒体、图片、摄像头、动画、文本、滚动字幕、日期时间、二维码、等，支持指令控制播放、覆盖、停止、移动、等， 支持自定义分辨率、帧率(FPS)，支持音频采样率自适应，支持多层、支持自定义布局，支持自定义位置与尺寸，支持视频帧与音轨或时钟同步，支持预加载，支持序列播放，支持 | 74 | Go |
+| 2404 | [xplay](https://github.com/nulijiabei/xplay) | 专为树莓派(Raspberry Pi)设计的多媒体播放器且支持(Windows、Linux、Android)系统，支持视频、音频、流媒体、图片、摄像头、动画、文本、滚动字幕、日期时间、二维码、等，支持指令控制播放、覆盖、停止、移动、等， 支持自定义分辨率、帧率(FPS)，支持音频采样率自适应，支持多层、支持自定义布局，支持自定义位置与尺寸，支持视频帧与音轨或时钟同步，支持预加载，支持序列播放，支持... | 74 | Go |
 | 2405 | [QuickJS](https://github.com/quickjs-zh/QuickJS) | QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。 | 2589 | C |
 | 2406 | [eide](https://github.com/github0null/eide) | An embedded development environment for mcs51/stm8/avr/cortex-m/riscv on VsCode. | 278 | TypeScript |
 | 2407 | [DP_START](https://github.com/superCong/DP_START) | parallels desktop 17.1.1(51537) activation 激活 | 74 | 无 |
@@ -2438,7 +2438,7 @@
 | 2435 | [BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | 百度网盘命令行工具。The terminal utility for Baidu Network Disk. | 3460 | Roff |
 | 2436 | [BaiduPCS-Go](https://github.com/Angey40/BaiduPCS-Go) | 百度网盘工具箱 - Go语言编写 | 288 | Go |
 | 2437 | [lede](https://github.com/coolsnowwolf/lede) | Lean's LEDE source | 23585 | C |
-| 2438 | [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged | 13095 | C |
+| 2438 | [openwrt](https://github.com/openwrt/openwrt) | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged... | 13095 | C |
 | 2439 | [hashcat](https://github.com/hashcat/hashcat) | World's fastest and most advanced password recovery utility | 15989 | C |
 | 2440 | [luci-app-serverchan](https://github.com/tty228/luci-app-serverchan) | serverchan running on openwrt | 776 | Shell |
 | 2441 | [server](https://github.com/goftp/server) | A FTP server framework written by Golang, moved to https://gitea.com/goftp/server | 407 | Go |
@@ -2497,11 +2497,11 @@
 | 2494 | [certd](https://github.com/certd/certd) | 免费泛域名SSL证书全自动申请、续期、部署，支持部署到阿里云、腾讯云、ssh主机。Automatically apply, renew and deploy free Generic domain SSL Certificates。 | 139 | JavaScript |
 | 2495 | [ddns-go](https://github.com/jeessy2/ddns-go) | 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、华为云、百度云、porkbun) | 3114 | Go |
 | 2496 | [DDNS](https://github.com/NewFuture/DDNS) | :triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...) | 3263 | Python |
-| 2497 | [go-gin-api](https://github.com/xinliangnote/go-gin-api) | 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR | 3971 | Go |
+| 2497 | [go-gin-api](https://github.com/xinliangnote/go-gin-api) | 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR... | 3971 | Go |
 | 2498 | [WPS-ONLINE-VIEWER-SERVICE](https://github.com/TravisChenn/WPS-ONLINE-VIEWER-SERVICE) | WPS 在线预览服务 | 3 | Vue |
 | 2499 | [online](https://github.com/LibreOffice/online) | Read-only Mirror - no pull request (use https://gerrit.libreoffice.org instead) | 532 | JavaScript |
 | 2500 | [officeonlin-install.sh](https://github.com/husisusi/officeonlin-install.sh) | Script to install Office Online on Ubuntu 22.04 & Debian 11  | 134 | Shell |
-| 2501 | [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and en | 2875 | Shell |
+| 2501 | [DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) | ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and en... | 2875 | Shell |
 | 2502 | [Real-Time-Rendering-4th-B](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection) | Real-Time Rendering 4th (RTR4) 参考文献合集典藏  Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference | 2709 | HTML |
 | 2503 | [Game-Programmer-Study-Not](https://github.com/QianMo/Game-Programmer-Study-Notes) | :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding. | 7408 | 无 |
 | 2504 | [PPTist](https://github.com/pipipi-pikachu/PPTist) | 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。 | 3188 | Vue |
@@ -2509,7 +2509,7 @@
 | 2506 | [next-terminal](https://github.com/dushixiang/next-terminal) | Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。 | 2912 | JavaScript |
 | 2507 | [terminalizer](https://github.com/faressoft/terminalizer) | 🦄 Record your terminal and generate animated gif images or share a web player | 13078 | JavaScript |
 | 2508 | [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University | 26556 | HTML |
-| 2509 | [d2l-en](https://github.com/d2l-ai/d2l-en) | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge. | 15350 | Python |
+| 2509 | [d2l-en](https://github.com/d2l-ai/d2l-en) | Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge. | 15351 | Python |
 | 2510 | [FerretDB](https://github.com/FerretDB/FerretDB) | A truly Open Source MongoDB alternative | 4907 | Go |
 | 2511 | [syft](https://github.com/anchore/syft) | CLI tool and library for generating a Software Bill of Materials from container images and filesystems | 3307 | Go |
 | 2512 | [E5SubBot](https://github.com/iyear/E5SubBot) | 🤖 A Simple Telebot for E5 Renewal | 775 | Go |
@@ -2520,10 +2520,10 @@
 | 2517 | [phpinsights](https://github.com/nunomaduro/phpinsights) | 🔰 Instant PHP quality checks from your console | 4773 | PHP |
 | 2518 | [prompts](https://github.com/terkelg/prompts) | ❯ Lightweight, beautiful and user-friendly interactive prompts | 7590 | JavaScript |
 | 2519 | [bubbletea](https://github.com/charmbracelet/bubbletea) | A powerful little TUI framework 🏗 | 15746 | Go |
-| 2520 | [glow](https://github.com/charmbracelet/glow) | Render markdown on the CLI, with pizzazz! 💅🏻 | 10450 | Go |
+| 2520 | [glow](https://github.com/charmbracelet/glow) | Render markdown on the CLI, with pizzazz! 💅🏻 | 10451 | Go |
 | 2521 | [svgo](https://github.com/svg/svgo) | ⚙️ Node.js tool for optimizing SVG files | 18467 | JavaScript |
 | 2522 | [bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | 37952 | Rust |
-| 2523 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, | 151888 | Shell |
+| 2523 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,... | 151888 | Shell |
 | 2524 | [grpc](https://github.com/grpc/grpc) | The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#) | 36150 | C++ |
 | 2525 | [sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) | Subconverter订阅转换前端，增加近百条远程配置及更多自定义功能！ | 458 | JavaScript |
 | 2526 | [clash-dashboard](https://github.com/Dreamacro/clash-dashboard) | web port of clash | 1235 | TypeScript |
@@ -2550,14 +2550,14 @@
 | 2547 | [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | 强大的哔哩哔哩增强脚本 | 15178 | TypeScript |
 | 2548 | [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️  A command-line system information tool written in bash 3.2+ | 16517 | Shell |
 | 2549 | [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) | H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.  让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台. | 6962 | JavaScript |
-| 2550 | [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI in Go inspired by Material Design | 18666 | Go |
+| 2550 | [fyne](https://github.com/fyne-io/fyne) | Cross platform GUI in Go inspired by Material Design | 18665 | Go |
 | 2551 | [ngx_waf](https://github.com/ADD-SP/ngx_waf) | Handy, High performance, ModSecurity compatible Nginx firewall module & 方便、高性能、兼容 ModSecurity 的 Nginx 防火墙模块 | 1111 | C |
 | 2552 | [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) | 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers | 6365 | TypeScript |
 | 2553 | [blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ | 2494 | Python |
 | 2554 | [bild](https://github.com/anthonynsimon/bild) | Image processing algorithms in pure Go | 3651 | Go |
 | 2555 | [winmerge](https://github.com/WinMerge/winmerge) | WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle. | 3526 | C++ |
 | 2556 | [tilt-brush](https://github.com/googlevr/tilt-brush) | 无 | 2119 | C# |
-| 2557 | [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. | 32790 | TypeScript |
+| 2557 | [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. | 32791 | TypeScript |
 | 2558 | [pretty](https://github.com/kr/pretty) | Pretty printing for Go values | 1157 | Go |
 | 2559 | [dns](https://github.com/miekg/dns) | DNS library in Go | 6576 | Go |
 | 2560 | [vardbg](https://github.com/CCExtractor/vardbg) | A simple Python debugger and profiler that generates animated visualizations of program flow, useful for algorithm learning. | 994 | Python |
@@ -2596,7 +2596,7 @@
 | 2593 | [gopay](https://github.com/go-pay/gopay) | 微信、支付宝、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】 | 2627 | Go |
 | 2594 | [weather-icons](https://github.com/erikflowers/weather-icons) | 215 Weather Themed Icons and CSS | 6508 | CSS |
 | 2595 | [NanaZip](https://github.com/M2Team/NanaZip) | The 7-Zip derivative intended for the modern Windows experience | 3557 | C++ |
-| 2596 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file | 22074 | C# |
+| 2596 | [ShareX](https://github.com/ShareX/ShareX) | ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file... | 22074 | C# |
 | 2597 | [ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) | :books: µGo语言实现(从头开发一个迷你Go语言编译器) | 1198 | Go |
 | 2598 | [croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another :crocodile: :package: | 21101 | Go |
 | 2599 | [caddy](https://github.com/caddyserver/caddy) | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS | 44101 | Go |
@@ -2604,7 +2604,7 @@
 | 2601 | [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | A prompt theme engine for any shell. | 8404 | Go |
 | 2602 | [dapr](https://github.com/dapr/dapr) | Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. | 19728 | Go |
 | 2603 | [lazydocker](https://github.com/jesseduffield/lazydocker) | The lazier way to manage everything docker | 24298 | Go |
-| 2604 | [incubator-devlake](https://github.com/apache/incubator-devlake) | Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co | 1782 | Go |
+| 2604 | [incubator-devlake](https://github.com/apache/incubator-devlake) | Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co... | 1782 | Go |
 | 2605 | [lazygit](https://github.com/jesseduffield/lazygit) | simple terminal UI for git commands | 30738 | Go |
 | 2606 | [PD-Runner](https://github.com/SuJack/PD-Runner) | A VM launcher for Parallels Desktop | 1 | 无 |
 | 2607 | [PD-Runner](https://github.com/lihaoyun6/PD-Runner) | A VM launcher for Parallels Desktop | 3266 | 无 |
@@ -2613,8 +2613,8 @@
 | 2610 | [MateBook14-Hackintosh](https://github.com/frezs/MateBook14-Hackintosh) | Matebook 14/13 (2019/2020/2021) MacOS Monterey & Bigsur Installation tutorial | 154 | ASL |
 | 2611 | [etherpad-lite](https://github.com/ether/etherpad-lite) | Etherpad: A modern really-real-time collaborative document editor. | 13473 | JavaScript |
 | 2612 | [focalboard](https://github.com/mattermost/focalboard) | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. | 13457 | TypeScript |
-| 2613 | [trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | 18550 | JavaScript |
-| 2614 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 28937 | Dart |
+| 2613 | [trilium](https://github.com/zadam/trilium) | Build your personal knowledge base with Trilium Notes | 18551 | JavaScript |
+| 2614 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. | 28936 | Dart |
 | 2615 | [Schedule](https://github.com/luoxiu/Schedule) | Schedule timing task in Swift using a fluent API. (A friendly alternative to Timer) | 1788 | Swift |
 | 2616 | [spider-flow](https://github.com/ssssssss-team/spider-flow) | 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。 | 7379 | Java |
 | 2617 | [MrDoc](https://github.com/zmister2016/MrDoc) | mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。 | 2241 | JavaScript |
@@ -2623,7 +2623,7 @@
 | 2620 | [MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) | Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners | 2231 | Python |
 | 2621 | [karabiner-config](https://github.com/LintaoAmons/karabiner-config) | share karabiner config. | 9 | 无 |
 | 2622 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | 60977 | Python |
-| 2623 | [Files](https://github.com/files-community/Files) | Building the best File Manager for Windows | 24939 | C# |
+| 2623 | [Files](https://github.com/files-community/Files) | Building the best File Manager for Windows | 24940 | C# |
 | 2624 | [yolov5](https://github.com/ultralytics/yolov5) | YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite | 32436 | Python |
 | 2625 | [engine](https://github.com/Monibuca/engine) | Monibuca 核心引擎，包含流媒体核心转发逻辑，需要配合功能插件一起组合运行 | 648 | Go |
 | 2626 | [fdivitto.FabGL](https://github.com/zxrepo/fdivitto.FabGL) | https://github.com/fdivitto/FabGL mirror | 2 | C++ |
@@ -2635,7 +2635,7 @@
 | 2632 | [osschat](https://github.com/kaiyuanshe/osschat) | Apache Open Source Software Chat BOT | 116 | TypeScript |
 | 2633 | [wechaty](https://github.com/wechaty/wechaty) | Conversational RPA SDK for Chatbot Makers | 13686 | TypeScript |
 | 2634 | [showdoc](https://github.com/star7th/showdoc) | ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 | 10775 | JavaScript |
-| 2635 | [chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | 12516 | Go |
+| 2635 | [chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | 12517 | Go |
 | 2636 | [hoppscotch](https://github.com/hoppscotch/hoppscotch) | 👽 Open source API development ecosystem - https://hoppscotch.io | 47988 | Vue |
 | 2637 | [learning_mind_map](https://github.com/0voice/learning_mind_map) | 2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等 | 2300 | 无 |
 | 2638 | [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) | An application written in C++ to modify the Windows 11 Taskbar.  | 929 | C++ |
@@ -2656,7 +2656,7 @@
 | 2653 | [token-list](https://github.com/solana-labs/token-list) | The community maintained Solana token registry | 1240 | Go |
 | 2654 | [patterns-of-distributed-s](https://github.com/dreamhead/patterns-of-distributed-systems) | 《Patterns of Distributed Systems》中文版 | 3661 | 无 |
 | 2655 | [insightface](https://github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project | 12877 | Python |
-| 2656 | [go-ethereum](https://github.com/ethereum/go-ethereum) | Official Go implementation of the Ethereum protocol | 40053 | Go |
+| 2656 | [go-ethereum](https://github.com/ethereum/go-ethereum) | Official Go implementation of the Ethereum protocol | 40054 | Go |
 | 2657 | [gorse](https://github.com/gorse-io/gorse) | An open source recommender system service written in Go | 6313 | Go |
 | 2658 | [webtorrent](https://github.com/webtorrent/webtorrent) | ⚡️ Streaming torrent client for the web | 27075 | JavaScript |
 | 2659 | [dstp](https://github.com/ycd/dstp) | 🧪 Run common networking tests against any site. | 911 | Go |
@@ -2675,7 +2675,7 @@
 | 2672 | [VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) | VS Code插件开发文档-中文版 | 1568 | JavaScript |
 | 2673 | [live-server-web-extension](https://github.com/ritwickdey/live-server-web-extension) | It makes your existing server live. This is a browser extension that helps you to live reload feature for dynamic content (PHP, Node.js, ASP.NET -- Whatever, it doesn't matter) | 614 | JavaScript |
 | 2674 | [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) | Launch a development local Server with live reload feature for static & dynamic pages. | 4507 | TypeScript |
-| 2675 | [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | 138772 | TypeScript |
+| 2675 | [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | 138773 | TypeScript |
 | 2676 | [ovsyunlive](https://github.com/ccallcn/ovsyunlive) | H5超低延时，桌面直播，电子游戏直播，桌面远程控制，游戏远控，H5视频会议，视频会议，会议直播，rtsp监控，视频对讲，Ｗeb推流，flv播放器，Web桌面直播，ws流拉流转发，web无插件监控，rtsp-Web监控,低延时解决方案，支持http-flv,ws-flv,直播录播,多通道流转发工具，Gb28181监控直播，Webrtc推流，Webrtc直播，Webrtc播放 | 273 | JavaScript |
 | 2677 | [gva-plugins](https://github.com/flipped-aurora/gva-plugins) | GIN-VUE-ADMIN插件仓库所有被gin-vue-admin采纳的插件均可入进入本仓库且加入仓库开发者小组 | 42 | Go |
 | 2678 | [vuetify-demo](https://github.com/markusleevip/vuetify-demo) | 无 | 6 | Vue |
@@ -2689,7 +2689,7 @@
 | 2686 | [cli](https://github.com/urfave/cli) | A simple, fast, and fun package for building command line apps in Go | 19241 | Go |
 | 2687 | [photoprism](https://github.com/photoprism/photoprism) | AI-Powered Photos App for the Decentralized Web 🌈💎✨ | 23118 | Go |
 | 2688 | [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) | ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解 | 27897 | Go |
-| 2689 | [gorm](https://github.com/go-gorm/gorm) | The fantastic ORM library for Golang, aims to be developer friendly | 30291 | Go |
+| 2689 | [gorm](https://github.com/go-gorm/gorm) | The fantastic ORM library for Golang, aims to be developer friendly | 30290 | Go |
 | 2690 | [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea, painless self-hosted git service | 33122 | Go |
 | 2691 | [beego](https://github.com/beego/beego) | beego is an open-source, high-performance web framework for the Go programming language. | 29047 | Go |
 | 2692 | [syncthing](https://github.com/syncthing/syncthing) | Open Source Continuous File Synchronization | 47508 | Go |
@@ -2697,20 +2697,20 @@
 | 2694 | [gop](https://github.com/goplus/gop) | The Go+ programming language is designed for engineering, STEM education, and data science. | 8299 | Go |
 | 2695 | [gin](https://github.com/gin-gonic/gin) | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 64115 | Go |
 | 2696 | [jobathome-godemo](https://github.com/markusleevip/jobathome-godemo) | jobathome-godemo | 4 | Go |
-| 2697 | [go](https://github.com/golang/go) | The Go programming language | 105484 | Go |
+| 2697 | [go](https://github.com/golang/go) | The Go programming language | 105483 | Go |
 | 2698 | [scriptcat](https://github.com/scriptscat/scriptcat) | 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情! | 498 | TypeScript |
 | 2699 | [quickemu](https://github.com/quickemu-project/quickemu) | Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. | 5318 | Shell |
 | 2700 | [copilot.vim](https://github.com/github/copilot.vim) | Neovim plugin for GitHub Copilot | 3726 | Vim Script |
 | 2701 | [ant-design](https://github.com/ant-design/ant-design) | An enterprise-class UI design language and React UI library | 82523 | TypeScript |
 | 2702 | [Arduino-For-Keil](https://github.com/FASTSHIFT/Arduino-For-Keil) | A lightweight Arduino framework for Keil projects. | 300 | C |
-| 2703 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks | 36781 | Python |
-| 2704 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. | 36581 | Python |
+| 2703 | [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks | 36780 | Python |
+| 2704 | [openpilot](https://github.com/commaai/openpilot) | openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. | 36582 | Python |
 | 2705 | [clash](https://github.com/Dreamacro/clash) | A rule-based tunnel in Go. | 32748 | Go |
 | 2706 | [questdb](https://github.com/questdb/questdb) | An open source time-series database for fast ingest and SQL queries | 9617 | Java |
 | 2707 | [nushell](https://github.com/nushell/nushell) | A new type of shell | 21567 | Rust |
 | 2708 | [flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) | A Collection of Flutter and Dart Tips and Tricks | 5564 | Dart |
 | 2709 | [copilot-docs](https://github.com/github/copilot-docs) | Documentation for GitHub Copilot | 21307 | 无 |
-| 2710 | [archbase](https://github.com/foxsen/archbase) | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 | 2426 | TeX |
+| 2710 | [archbase](https://github.com/foxsen/archbase) | 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 | 2425 | TeX |
 | 2711 | [openwifi](https://github.com/open-sdr/openwifi) | open-source IEEE 802.11 WiFi baseband FPGA (chip) design: driver, software | 2738 | C |
 | 2712 | [ICCV2021-Papers-with-Code](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo) | ICCV 2021 paper with code  | 291 | 无 |
 | 2713 | [tcp-proxy](https://github.com/vyks520/tcp-proxy) | 一款配置超级简单的tcp内网穿透代理程序，可以将内网tcp端口转发到公网服务器上。测试过内网HTTP服务、windows远程桌面、ssh访问等场景的代理。 | 16 | Go |
@@ -2718,8 +2718,8 @@
 | 2715 | [idraw](https://github.com/idrawjs/idraw) | A simple JavaScript framework for Drawing on the web.(一个面向Web绘图的JavaScript框架) | 491 | TypeScript |
 | 2716 | [deploy-code-server](https://github.com/coder/deploy-code-server) | Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻 | 670 | Shell |
 | 2717 | [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | 28031 | 无 |
-| 2718 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。 | 36074 | Python |
-| 2719 | [next.js](https://github.com/vercel/next.js) | The React Framework | 95757 | JavaScript |
+| 2718 | [d2l-zh](https://github.com/d2l-ai/d2l-zh) | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60个国家的400所大学用于教学。 | 36075 | Python |
+| 2719 | [next.js](https://github.com/vercel/next.js) | The React Framework | 95758 | JavaScript |
 | 2720 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | 22815 | JavaScript |
 | 2721 | [smqtt](https://github.com/quickmsg/smqtt) | 开源MQTT broker(基于reactor-netty实现高性能的、可扩展、支持集群） | 472 | Java |
 | 2722 | [MQTT-Client-Examples](https://github.com/emqx/MQTT-Client-Examples) | MQTT Client Examples | 310 | Swift |
@@ -2752,14 +2752,14 @@
 | 2749 | [neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | 59305 | Vim Script |
 | 2750 | [deep-learning-with-python](https://github.com/fchollet/deep-learning-with-python-notebooks) | Jupyter notebooks for the code samples of the book "Deep Learning with Python" | 16042 | Jupyter Notebook |
 | 2751 | [NonDeepNetworks](https://github.com/imankgoyal/NonDeepNetworks) | Official Code for "Non-deep Networks" | 565 | Python |
-| 2752 | [go-fastdfs](https://github.com/sjqzhang/go-fastdfs) | go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliabil | 3289 | Go |
+| 2752 | [go-fastdfs](https://github.com/sjqzhang/go-fastdfs) | go-fastdfs 是一个简单的分布式文件系统(私有云存储)，具有无中心、高性能，高可靠，免维护等优点，支持断点续传，分块上传，小文件合并，自动同步，自动修复。Go-fastdfs is a simple distributed file system (private cloud storage), with no center, high performance, high reliabil... | 3289 | Go |
 | 2753 | [krita](https://github.com/KDE/krita) | Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. | 4350 | C++ |
 | 2754 | [oppia](https://github.com/oppia/oppia) | A free, online learning platform to make quality education accessible for all. | 4731 | Python |
 | 2755 | [pytube](https://github.com/pytube/pytube) | A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos. | 7714 | Python |
 | 2756 | [collect.js](https://github.com/ecrmnn/collect.js) | 💎  Convenient and dependency free wrapper for working with arrays and objects | 6105 | JavaScript |
 | 2757 | [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | header only, dependency-free deep learning framework in C++14 | 5602 | C++ |
 | 2758 | [FreeRDP](https://github.com/FreeRDP/FreeRDP) | FreeRDP is a free remote desktop protocol library and clients | 7539 | C |
-| 2759 | [xbmc](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for  | 14707 | C++ |
+| 2759 | [xbmc](https://github.com/xbmc/xbmc) | Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for ... | 14707 | C++ |
 | 2760 | [MQTTX](https://github.com/emqx/MQTTX) | Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools | 2237 | Vue |
 | 2761 | [mqtt](https://github.com/mcxiaoke/mqtt) | MQTT协议3.1.1中文翻译版，IoT，物联网 | 4431 | Rich Text Format |
 | 2762 | [mqtts](https://github.com/SPuerBRead/mqtts) | MQTT安全测试工具 (MQTT Security Tools) | 26 | Go |
@@ -2769,7 +2769,7 @@
 | 2766 | [emqx](https://github.com/emqx/emqx) | The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles | 10613 | Erlang |
 | 2767 | [KubePi](https://github.com/KubeOperator/KubePi) | KubePi 是一个现代化的 K8s 面板。 | 1416 | Go |
 | 2768 | [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) | OpenCore bootloader | 10378 | C |
-| 2769 | [semi-design](https://github.com/DouyinFE/semi-design) | 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De | 6362 | TypeScript |
+| 2769 | [semi-design](https://github.com/DouyinFE/semi-design) | 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,300+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De... | 6362 | TypeScript |
 | 2770 | [arco-design](https://github.com/arco-design/arco-design) | A comprehensive React UI components library based on Arco Design | 3509 | TypeScript |
 | 2771 | [Aerial](https://github.com/JohnCoates/Aerial) | Apple TV Aerial Screensaver for Mac | 20208 | Swift |
 | 2772 | [PPRows](https://github.com/jkpang/PPRows) | It Can Calculate how many lines of code you write on Mac ; 在Mac上计算你写了多少行代码 | 1474 | Objective-C |
@@ -2780,7 +2780,7 @@
 | 2777 | [XDrive](https://github.com/unlir/XDrive) | Stepper motor with multi-function interface and closed loop function. 具有多功能接口和闭环功能的步进电机。 | 796 | C++ |
 | 2778 | [TTKOCR](https://github.com/Greedysky/TTKOCR) | OCR 识别图片以及PDF中的文字， based on Qt for windows and linux.  | 92 | C++ |
 | 2779 | [shotcut](https://github.com/mltframework/shotcut) | cross-platform (Qt), open-source (GPLv3) video editor | 7130 | C++ |
-| 2780 | [dgiot](https://github.com/dgiot/dgiot) | Open source platform for IoT,30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page | 3402 | Erlang |
+| 2780 | [dgiot](https://github.com/dgiot/dgiot) | Open source platform for IoT,30 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,30分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page... | 3402 | Erlang |
 | 2781 | [runninglinuxkernel_5.0](https://github.com/figozhang/runninglinuxkernel_5.0) | 奔跑吧linux内核第二版（卷1，卷2，入门篇） 实验平台 | 157 | C |
 | 2782 | [cpc](https://github.com/archeryue/cpc) | 建党 100 周年！写一个名为 CPC 的 C 编译器，为党庆生！ | 189 | C |
 | 2783 | [interview](https://github.com/muluoleiguo/interview) | linux C++ 服务器/后台开发 秋招整理资料  | 346 | C++ |
@@ -2788,7 +2788,7 @@
 | 2785 | [YOS](https://github.com/yourtion/YOS) | YourtionOS 基于 30dayMakeOS (OSASK) 构建你自己的操作系统 | 230 | C |
 | 2786 | [evm](https://github.com/scriptiot/evm) | 超轻量级物联网虚拟机 | 458 | C |
 | 2787 | [jessibuca](https://github.com/langhuihui/jessibuca) | Jessibuca是一款开源的纯H5直播流播放器 | 1125 | C |
-| 2788 | [EasyRTMP](https://github.com/tsingsee/EasyRTMP) | EasyRTMP是一套调用简单、功能完善、运行高效稳定的RTMP功能组件，经过多年实战和线上运行打造，支持RTMP推送断线重连、环形缓冲、智能丢帧、网络事件回调，支持Windows、Linux、arm（hisiv100/hisiv200/hisiv300/hisiv400/hisiv500/hisiv600/etc..）、Android、iOS平台，支持市面上绝大部分的RTMP流媒体服务器，包括W | 629 | C |
+| 2788 | [EasyRTMP](https://github.com/tsingsee/EasyRTMP) | EasyRTMP是一套调用简单、功能完善、运行高效稳定的RTMP功能组件，经过多年实战和线上运行打造，支持RTMP推送断线重连、环形缓冲、智能丢帧、网络事件回调，支持Windows、Linux、arm（hisiv100/hisiv200/hisiv300/hisiv400/hisiv500/hisiv600/etc..）、Android、iOS平台，支持市面上绝大部分的RTMP流媒体服务器，包括W... | 629 | C |
 | 2789 | [awtk](https://github.com/zlgopen/awtk) | AWTK = Toolkit AnyWhere(a cross-platform embedded GUI) | 2608 | C |
 | 2790 | [Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) | 算法学习笔记 | 6926 | C |
 | 2791 | [miniFOC](https://github.com/ZhuYanzhen1/miniFOC) | 你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$! | 461 | C++ |
@@ -2798,7 +2798,7 @@
 | 2795 | [opencv_tutorial](https://github.com/gloomyfish1998/opencv_tutorial) | 基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像 | 500 | C++ |
 | 2796 | [FingerprintPay](https://github.com/eritpchy/FingerprintPay) | 让微信、QQ、支付宝、淘宝、云闪付支持使用指纹支付 | 1637 | Java |
 | 2797 | [cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese) | 快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/ | 1787 | C++ |
-| 2798 | [sylar](https://github.com/sylar-yin/sylar) | C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis, | 2241 | C++ |
+| 2798 | [sylar](https://github.com/sylar-yin/sylar) | C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,... | 2241 | C++ |
 | 2799 | [Data-Structres](https://github.com/callmePicacho/Data-Structres) | 浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解 | 2188 | C++ |
 | 2800 | [handy](https://github.com/yedf2/handy) | 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework | 4151 | C++ |
 | 2801 | [MVision](https://github.com/Ewenwan/MVision) | 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶 | 6751 | C++ |
@@ -2820,7 +2820,7 @@
 | 2817 | [audio_video_streaming](https://github.com/0voice/audio_video_streaming) | 音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。 | 3467 | 无 |
 | 2818 | [Bark](https://github.com/Finb/Bark) | Bark is an iOS App which allows you to push custom notifications to your iPhone | 3311 | Swift |
 | 2819 | [m3o](https://github.com/m3o/m3o) | Serverless infrastructure & cloud services | 2208 | TypeScript |
-| 2820 | [SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是 | 6629 | Kotlin |
+| 2820 | [SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是... | 6629 | Kotlin |
 | 2821 | [ScreenTask](https://github.com/vingojw/ScreenTask) | 局域网里的屏幕分享，只适用于MAC | 3 | JavaScript |
 | 2822 | [FG](https://github.com/mgsky1/FG) | 基于Nonebot的QQ群机器人🤖️，特色功能是利用机器学习算法，基于每日聊天记录生成每日总结。可在酷Q/Mirai平台上运行 | 79 | Python |
 | 2823 | [HarukaBot](https://github.com/SK-415/HarukaBot) | 将 B 站的动态和直播信息推送至 QQ，基于 NoneBot2 开发 | 554 | Python |
@@ -2866,7 +2866,7 @@
 | 2863 | [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | 114591 | Python |
 | 2864 | [faceswap](https://github.com/deepfakes/faceswap) | Deepfakes Software For All | 42664 | Python |
 | 2865 | [ddosify](https://github.com/ddosify/ddosify) | High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀 | 5059 | Go |
-| 2866 | [autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell | 20523 | TypeScript |
+| 2866 | [autocomplete](https://github.com/withfig/autocomplete) | IDE-style autocomplete for your existing terminal & shell | 20524 | TypeScript |
 | 2867 | [x-ui](https://github.com/vaxilu/x-ui) | 支持多协议多用户的 xray 面板 | 7342 | JavaScript |
 | 2868 | [xray](https://github.com/chaitin/xray) | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc  使用之前务必先阅读文档 | 7490 | Vue |
 | 2869 | [sub-web](https://github.com/CareyWang/sub-web) | 无 | 2697 | Vue |
@@ -2874,7 +2874,7 @@
 | 2871 | [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) | 用于在 Heroku 上部署 V2Ray WebSocket。 | 2127 | Shell |
 | 2872 | [AirConnect](https://github.com/philippe44/AirConnect) | Use AirPlay to stream to UPnP/Sonos & Chromecast devices | 2721 | C |
 | 2873 | [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) | Code. Music. Live. | 9540 | C++ |
-| 2874 | [goreplay](https://github.com/buger/goreplay) | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in | 16298 | Go |
+| 2874 | [goreplay](https://github.com/buger/goreplay) | GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in... | 16298 | Go |
 | 2875 | [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS & OS X | 18964 | Swift |
 | 2876 | [Masonry](https://github.com/SnapKit/Masonry) | Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout | 18050 | Objective-C |
 | 2877 | [the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》 | 31415 | Go |
@@ -2901,7 +2901,7 @@
 | 2898 | [Hackintool](https://github.com/headkaze/Hackintool) | The Swiss army knife of vanilla Hackintoshing | 2211 | Objective-C |
 | 2899 | [Hackintosh](https://github.com/daliansky/Hackintosh) | Hackintosh long-term maintenance model EFI and installation tutorial | 7285 | Shell |
 | 2900 | [weekly](https://github.com/ascoders/weekly) | 前端精读周刊。帮你理解最前沿、实用的技术。 | 22055 | JavaScript |
-| 2901 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | 127059 | Python |
+| 2901 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | Python - 100天从新手到大师 | 127058 | Python |
 | 2902 | [taichi](https://github.com/taichi-dev/taichi) | Productive & portable high-performance programming in Python. | 21533 | C++ |
 | 2903 | [bitcoin](https://github.com/bitcoin/bitcoin) | Bitcoin Core integration/staging tree | 66780 | C++ |
 | 2904 | [Lenia](https://github.com/Chakazul/Lenia) | Lenia - Mathematical Life Forms | 3030 | Python |
@@ -2920,7 +2920,7 @@
 | 2917 | [spring-analysis](https://github.com/seaswalker/spring-analysis) | Spring源码阅读 | 12108 | Java |
 | 2918 | [Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite) | 无 | 677 | C |
 | 2919 | [Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot) | 我的超迷你机械臂机器人项目。 | 8597 | C |
-| 2920 | [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | 42731 | C |
+| 2920 | [obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | 42732 | C |
 | 2921 | [DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) | A Virtual Desktop Assistant Written in Python | 592 | Python |
 | 2922 | [NightDriverStrip](https://github.com/PlummersSoftwareLLC/NightDriverStrip) | NightDriver client for ESP32 | 587 | C++ |
 | 2923 | [porth](https://github.com/tsoding/porth) | It's like Forth but in Python | 620 | 无 |
@@ -2928,27 +2928,27 @@
 | 2925 | [Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. | 5344 | 无 |
 | 2926 | [imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | 42920 | C++ |
 | 2927 | [electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | 104390 | C++ |
-| 2928 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | 213825 | Python |
+| 2928 | [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | 213826 | Python |
 | 2929 | [SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) | Cross-Platform SDR Software | 2079 | C++ |
 | 2930 | [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 | 25264 | 无 |
 | 2931 | [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | 20020 | C |
 | 2932 | [Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) | 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt | 5612 | Go |
-| 2933 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  | 19787 | Vue |
+| 2933 | [YesPlayMusic](https://github.com/qier222/YesPlayMusic) | 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:  | 19788 | Vue |
 | 2934 | [vim-plug](https://github.com/junegunn/vim-plug) | :hibiscus: Minimalist Vim Plugin Manager | 29644 | Vim Script |
 | 2935 | [screen-shot](https://github.com/hlyzfxt/screen-shot) | qt截图工具，跨平台，适用于Mac， Windows，linux未测试 | 6 | C++ |
 | 2936 | [ShotX](https://github.com/XMuli/ShotX) | 一款极简的截图工具(支持 Win，Mac，Linux) | 10 | C++ |
 | 2937 | [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 51169 | Python |
 | 2938 | [esphome](https://github.com/esphome/esphome) | ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. | 5412 | C++ |
 | 2939 | [mongoose](https://github.com/cesanta/mongoose) | Embedded Web Server | 8891 | C |
-| 2940 | [cpp_new_features](https://github.com/0voice/cpp_new_features) | 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 | 2397 | C++ |
-| 2941 | [json](https://github.com/nlohmann/json) | JSON for Modern C++ | 32378 | C++ |
+| 2940 | [cpp_new_features](https://github.com/0voice/cpp_new_features) | 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等 | 2399 | C++ |
+| 2941 | [json](https://github.com/nlohmann/json) | JSON for Modern C++ | 32379 | C++ |
 | 2942 | [glog](https://github.com/google/glog) | C++ implementation of the Google logging module | 5766 | C++ |
-| 2943 | [WebServer](https://github.com/markparticle/WebServer) | C++  Linux WebServer服务器 | 1659 | C++ |
+| 2943 | [WebServer](https://github.com/markparticle/WebServer) | C++  Linux WebServer服务器 | 1658 | C++ |
 | 2944 | [TinyWebServer](https://github.com/qinguoyi/TinyWebServer) | :fire: Linux下C++轻量级Web服务器学习 | 8565 | C++ |
-| 2945 | [kore](https://github.com/jorisvink/kore) | An easy to use, scalable and secure web application framework for writing web APIs in C or Python.  This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for informa | 3543 | C |
-| 2946 | [mitmproxy-hub](https://github.com/CreditTone/mitmproxy-hub) | mitmproxy非常适合捕捉网络流量，但是对于Java用户没有简单的接口。软件测试社区，特别是爬虫、中间人攻击测试人员，希望能够捕获设备在Java/golang/c++测试期间发出的网络请求。为此,基于grpc开发了mitmproxy的中央服务，任何语言都可以基于mitm_hub.proto实现的回调定义生成自己的远程客户端代码。以便在你的语言环境上也能像在python本地一样，使用remote | 37 | Python |
+| 2945 | [kore](https://github.com/jorisvink/kore) | An easy to use, scalable and secure web application framework for writing web APIs in C or Python.  This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for informa... | 3543 | C |
+| 2946 | [mitmproxy-hub](https://github.com/CreditTone/mitmproxy-hub) | mitmproxy非常适合捕捉网络流量，但是对于Java用户没有简单的接口。软件测试社区，特别是爬虫、中间人攻击测试人员，希望能够捕获设备在Java/golang/c++测试期间发出的网络请求。为此,基于grpc开发了mitmproxy的中央服务，任何语言都可以基于mitm_hub.proto实现的回调定义生成自己的远程客户端代码。以便在你的语言环境上也能像在python本地一样，使用remote... | 37 | Python |
 | 2947 | [Camkit](https://github.com/LiveMirror/Camkit) | Camkit是一个摄像头相关的工具箱，使用C语言写成，包含了从：图像采集-->色彩转换-->H264编码-->RTP打包-->网络发送的全套接口。  | 47 | C |
-| 2948 | [QQrobot](https://github.com/vipjeffreylee/QQrobot) | QQrobot是用C++语言开发设计，程序界面、网络通迅等模块使用了Qt，Qt是开源的，跨平台C++程序图形界面框架库,QQrobot具备跨平台特性，可在linux、MAC OS以及Windows等操作系统中运行，集成开发编译环境请到 http://qt-project.org/ 下载。  QQrobot基于腾讯公司WebQQ协议实现，可以向QQ群或者是个人自动发送信息。分为两个部分，QQ主体和r | 406 | C++ |
+| 2948 | [QQrobot](https://github.com/vipjeffreylee/QQrobot) | QQrobot是用C++语言开发设计，程序界面、网络通迅等模块使用了Qt，Qt是开源的，跨平台C++程序图形界面框架库,QQrobot具备跨平台特性，可在linux、MAC OS以及Windows等操作系统中运行，集成开发编译环境请到 http://qt-project.org/ 下载。  QQrobot基于腾讯公司WebQQ协议实现，可以向QQ群或者是个人自动发送信息。分为两个部分，QQ主体和r... | 406 | C++ |
 | 2949 | [vimrc-example](https://github.com/theniceboy/vimrc-example) | 无 | 191 | Vim script |
 | 2950 | [cpplog](https://github.com/doe300/cpplog) | A very light-weight thread-safe extensible logging framework for C++ | 5 | C++ |
 | 2951 | [cpp-httplib](https://github.com/yhirose/cpp-httplib) | A C++ header-only HTTP/HTTPS server and client library | 8040 | C++ |
@@ -2962,8 +2962,8 @@
 | 2959 | [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) | Latest ESP8266 SDK based on FreeRTOS, esp-idf style. | 2884 | C |
 | 2960 | [appjs](https://github.com/appjs/appjs) | (Deprecated!) SDK on top of nodejs to build desktop apps using HTML5/CSS/JS | 3449 | C++ |
 | 2961 | [bullet3](https://github.com/bulletphysics/bullet3) | Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc. | 9929 | C++ |
-| 2962 | [openmeeting2](https://github.com/onlycoder/openmeeting2) | openmeeting2视频会议，仿QQ群视频，实现多人视频，多人语音，文字聊天，表情，共享PPT功能，自由发言，主持人控制发言，按F2发言三种语音模式 ,客户端使用vs2010+qt4.85开发，服务器使用php+go语言，数据库采用mysql 演示系统所有密码都是123456，演示用户 8001~8010 客户端下载地址： http://pan.baidu.com/s/1gdCikSV 服务器 | 348 | C++ |
-| 2963 | [starrtc-android-demo](https://github.com/starrtc/starrtc-android-demo) | 🚀starRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，视频监控，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视 | 3272 | 无 |
+| 2962 | [openmeeting2](https://github.com/onlycoder/openmeeting2) | openmeeting2视频会议，仿QQ群视频，实现多人视频，多人语音，文字聊天，表情，共享PPT功能，自由发言，主持人控制发言，按F2发言三种语音模式 ,客户端使用vs2010+qt4.85开发，服务器使用php+go语言，数据库采用mysql 演示系统所有密码都是123456，演示用户 8001~8010 客户端下载地址： http://pan.baidu.com/s/1gdCikSV 服务器... | 348 | C++ |
+| 2963 | [starrtc-android-demo](https://github.com/starrtc/starrtc-android-demo) | 🚀starRTC，即时通讯(IM)系统，免费IM系统（含单聊，群聊，聊天室，文件传输），免费一对一视频聊天，VOIP，语音对讲（回音消除），直播连麦，视频直播，RTSP拉流，RTMP推流，webRTC服务端，在线教育，白板，小班课，在线会议，视频会议，视频监控，局域网直连（无需服务器），兼容webRTC, 支持webRTC加速，P2P高清传输，安卓、iOS、web互通，支持门禁对讲，可视对讲，电视... | 3272 | 无 |
 | 2964 | [starrtc-server](https://github.com/starrtc/starrtc-server) | 免费IM系统，IM即时通信消息系统(含一对一文字聊天，群聊，聊天室)，免费一对一voip实时通话，录屏，webrtc服务端，免费直播连麦，互动直播，视频直播，RTSP拉流，RTMP推流，语音对讲，免费在线会议，视频会议等服务端程序，支持物联网平台，✨万水千山总是情，来个star行不行✨ | 2534 | C |
 | 2965 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | Mirror of https://git.ffmpeg.org/ffmpeg.git | 32515 | C |
 | 2966 | [Documentation](https://github.com/anyrtcIO-Community/Documentation) | 包含平台所有文档 | 7 | HTML |
@@ -2979,7 +2979,7 @@
 | 2976 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | 7612 | Python |
 | 2977 | [chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) | 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M  | 9711 | C++ |
 | 2978 | [EasyOCR](https://github.com/JaidedAI/EasyOCR) | Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc. | 16211 | Python |
-| 2979 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de | 26387 | Python |
+| 2979 | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de... | 26387 | Python |
 | 2980 | [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) | 47299 | C++ |
 | 2981 | [btop](https://github.com/aristocratos/btop) | A monitor of resources | 9367 | C++ |
 | 2982 | [MockingBird](https://github.com/babysor/MockingBird) | 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time | 24752 | Python |
@@ -3011,12 +3011,12 @@
 | 3008 | [baiduCDP](https://github.com/cool2528/baiduCDP) | 百度网盘下载神器 | 1546 | C++ |
 | 3009 | [zfile](https://github.com/zfile-dev/zfile) | 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载 | 6433 | Java |
 | 3010 | [baidupcsapi](https://github.com/ly0/baidupcsapi) | 百度网盘api | 1127 | Python |
-| 3011 | [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 | 3592 | 无 |
+| 3011 | [Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books) | 个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　... | 3592 | 无 |
 | 3012 | [BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) | 同步百度云网盘到阿里云 | 488 | Python |
 | 3013 | [PanIndex](https://github.com/libsgh/PanIndex) | 网盘目录列表，目前支持天翼云、teambition盘、阿里云盘、OneDrive等 | 1084 | Go |
 | 3014 | [cutefish-desktop-ubuntu](https://github.com/cutefish-ubuntu/cutefish-desktop-ubuntu) | How to install Cutefish Desktop in Ubuntu?  | 16 | Shell |
 | 3015 | [qinglong](https://github.com/whyour/qinglong) | 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell） | 8036 | TypeScript |
-| 3016 | [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) | Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with  | 10769 | Python |
+| 3016 | [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) | Launched in 2018. It's 2022 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with ... | 10769 | Python |
 | 3017 | [scrcpy](https://github.com/Genymobile/scrcpy) | Display and control your Android device | 72515 | C |
 | 3018 | [hexo-theme-next](https://github.com/theme-next/hexo-theme-next) | Elegant and powerful theme for Hexo. | 7770 | Stylus |
 | 3019 | [Dopefolio](https://github.com/rammcodes/Dopefolio) | Dopefolio 🔥 - Portfolio Template for Developers 🚀 | 2230 | HTML |
@@ -3027,12 +3027,12 @@
 | 3024 | [wx-face](https://github.com/rimushi/wx-face) | 微信小程序实现人脸识别，活体检测等功能 | 5 | JavaScript |
 | 3025 | [ai-face](https://github.com/liufulin90/ai-face) | 人脸智能识别系统，本地上传图片，利用baidu-ai本地化人脸识别 | 41 | JavaScript |
 | 3026 | [EasyPlayerPro-Win](https://github.com/tsingsee/EasyPlayerPro-Win) | EasyPlayerPro是一款免费的全功能流媒体播放器，支持RTSP、RTMP、HTTP、HLS、UDP、RTP、File等多种流媒体协议播放、支持本地文件播放，支持本地抓拍、本地录像、播放旋转、多屏播放、倍数播放等多种功能特性，核心基于ffmpeg，稳定、高效、可靠、可控，支持Windows、Android、iOS三个平台，目前在多家教育、安防、行业型公司，都得到的应用，广受好评！ | 316 | C++ |
-| 3027 | [1ZLAB_Face_Track_Robot](https://github.com/1zlab/1ZLAB_Face_Track_Robot) | 二自由度云台实现人脸追踪。 首先是使用一款名字叫做IP摄像头的APP 采集手机摄像头的图像，在手机上建立一个视频流服务器。在局域网下，PC通过IP还有端口号获取图像。使用OpenCV的人脸检测的API获取人脸在画面中的位置，根据人脸位置距离画面中心的x轴与y轴的偏移量(offset) ，通过P比例控制(PID控制中最简单的一种)控制二自由度云台上臂与下臂的旋转角度，将角度信息通过串口通信UART发 | 142 | Python |
+| 3027 | [1ZLAB_Face_Track_Robot](https://github.com/1zlab/1ZLAB_Face_Track_Robot) | 二自由度云台实现人脸追踪。 首先是使用一款名字叫做IP摄像头的APP 采集手机摄像头的图像，在手机上建立一个视频流服务器。在局域网下，PC通过IP还有端口号获取图像。使用OpenCV的人脸检测的API获取人脸在画面中的位置，根据人脸位置距离画面中心的x轴与y轴的偏移量(offset) ，通过P比例控制(PID控制中最简单的一种)控制二自由度云台上臂与下臂的旋转角度，将角度信息通过串口通信UART发... | 142 | Python |
 | 3028 | [yun_qtscrcpy](https://github.com/YunLambert/yun_qtscrcpy) | 基于Qt与ffmpeg的安卓实时投屏程序(Not for business) | 46 | C++ |
 | 3029 | [MRDLNA](https://github.com/MQL9011/MRDLNA) | 纯OC实现的iOS DLNA 投屏功能, 支持各大主流电视盒子(小米,华为,乐视,移动魔百盒等), 可以播放,暂停,快进退,调音量,退出. | 540 | Objective-C |
 | 3030 | [AirPlayerDemo](https://github.com/coder-dongjiayi/AirPlayerDemo) | ios 投屏功能。关于投屏功能的资料比较少，写了一个简单的demo，用来记录 让有需求的同学不再走弯路 | 18 | Objective-C |
-| 3031 | [EasyScreenLive](https://github.com/tsingsee/EasyScreenLive) | Streaming media sdk tool：EasyScreenLive是一款简单、高效、稳定的集采集，编码，组播，推流和流媒体RTSP服务于一身的同屏功能组件，具低延时，高效能，低丢包等特点。目前支持Windows，Android平台，通过EasyScreenLive我们就可以避免接触到稍显复杂的音视频源采集，编码和流媒体推送以及RTSP/RTP/RTCP/RTMP服务流程，只需要调用Ea | 294 | C++ |
-| 3032 | [EasyIPCamera](https://github.com/tsingsee/EasyIPCamera) | RTSP Server：free, elegant, simple, high performance RTSP Server for smart-devices/desktop-application,such as Android-Camera/Windows-Desktop-LiveStreaming/ARM-IPCamera,also can run in Windows/Linux/AR | 472 | C++ |
+| 3031 | [EasyScreenLive](https://github.com/tsingsee/EasyScreenLive) | Streaming media sdk tool：EasyScreenLive是一款简单、高效、稳定的集采集，编码，组播，推流和流媒体RTSP服务于一身的同屏功能组件，具低延时，高效能，低丢包等特点。目前支持Windows，Android平台，通过EasyScreenLive我们就可以避免接触到稍显复杂的音视频源采集，编码和流媒体推送以及RTSP/RTP/RTCP/RTMP服务流程，只需要调用Ea... | 294 | C++ |
+| 3032 | [EasyIPCamera](https://github.com/tsingsee/EasyIPCamera) | RTSP Server：free, elegant, simple, high performance RTSP Server for smart-devices/desktop-application,such as Android-Camera/Windows-Desktop-LiveStreaming/ARM-IPCamera,also can run in Windows/Linux/AR... | 472 | C++ |
 | 3033 | [ArchLinuxStudio.github.io](https://github.com/ArchLinuxStudio/ArchLinuxStudio.github.io) | ✨ArchLinuxStudio官方网站✨ | 27 | TypeScript |
 | 3034 | [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | 22807 | C++ |
 | 3035 | [papers-we-love](https://github.com/papers-we-love/papers-we-love) | Papers from the computer science community to read and discuss. | 65487 | Shell |
@@ -3040,7 +3040,7 @@
 | 3037 | [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) | Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes. | 22244 | C++ |
 | 3038 | [Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | 147832 | Python |
 | 3039 | [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City | 6917 | C++ |
-| 3040 | [nps](https://github.com/ehang-io/nps) | 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, | 23402 | Go |
+| 3040 | [nps](https://github.com/ehang-io/nps) | 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,... | 23402 | Go |
 | 3041 | [code-server](https://github.com/coder/code-server) | VS Code in the browser | 57451 | TypeScript |
 | 3042 | [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | 28016 | C++ |
 | 3043 | [Cloudreve](https://github.com/cloudreve/Cloudreve) | 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers) | 16294 | Go |
