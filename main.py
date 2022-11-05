@@ -15,9 +15,9 @@ listReg = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
 def readJsonFile(path):
     # print("开始")
     start = 0
-#     markdown = '| 序号 | 仓库 | 描述 | 更新时间 | Star | Fork | 语言 | 许可证 |\n' + \
+#     markdown = '| 序号 |<div width="250px"> 仓库 </div>|<div width="900px"> 描述 </div>| 更新时间 | Star | Fork | 语言 | 许可证 |\n' + \
 #                 '|:----:| ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n'
-    markdown = '| 序号 | 仓库 | 描述 | Star | 语言 |\n' + \
+    markdown = '| 序号 |<div width="250px"> 仓库 </div>|<div width="900px"> 描述 </div>| Star | 语言 |\n' + \
                 '|:----:|:----:| ---- |:----:|:----:|\n'
     with open(path, "r", encoding='utf-8') as f:
         starList = list(f.readlines())
