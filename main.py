@@ -37,6 +37,7 @@ def readJsonFile(path):
                     desc = obj["description"][0:200:] + '...'
                 else:
                     desc = obj["description"][0:200:]
+                star = "https://img.shields.io/github/stars/" + obj["name"] + "/" + "" + "?style=social"
                 if obj["language"] == None:
                     lang = '无'
                 else:
